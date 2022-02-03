@@ -1,0 +1,7 @@
+C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\bin64\syn_nfilter.exe  -link  -top  TOP  -multisrs  D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\synthesis\synwork\TOP_comp.srs  -osyn  D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\synthesis\synwork\TOP_mult.srs  -log  D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\synthesis\synlog\TOP_multi_srs_gen.srr 
+relcom:C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\bin64\syn_nfilter.exe -link -top TOP -multisrs ..\synwork\TOP_comp.srs -osyn ..\synwork\TOP_mult.srs -log ..\synlog\TOP_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\TOP_comp.srs|io:i|time:1641296459|size:166094|exec:0|csum:CC0B9F1399044B695F858A3B4D0728D2
+file:..\synwork\TOP_mult.srs|io:o|time:1641296460|size:8687|exec:0|csum:
+file:..\synlog\TOP_multi_srs_gen.srr|io:o|time:1641296460|size:1254|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\bin64\syn_nfilter.exe|io:i|time:1626183374|size:8899584|exec:1|csum:24E453F40C1DFA9BA8BF2F34BE410067

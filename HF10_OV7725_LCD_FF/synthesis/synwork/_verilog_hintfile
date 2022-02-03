@@ -1,0 +1,246 @@
+%%% protect protected_file
+#OPTIONS:"|-bldtbl|-prodtype|synplify_pro|-infer_seqShift|-primux|-dspmac|-pqdpadd|-fixsmult|-sdff_counter|-divnmod|-nram|-actel|-encrypt|-pro|-lite|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-vhdl2008|-ignore_undefined_lib|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work"
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\bin64\\c_vhdl.exe":1626183374
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd2008\\location.map":1626183375
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd2008\\std.vhd":1626183375
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd\\snps_haps_pkg.vhd":1626183375
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd2008\\std1164.vhd":1626183375
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd2008\\std_textio.vhd":1626183375
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd2008\\numeric.vhd":1626183375
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd\\umr_capim.vhd":1626183375
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd2008\\arith.vhd":1626183375
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd2008\\unsigned.vhd":1626183375
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\FF_GENERATOR.vhd":1571288684
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\addr_decoder.vhd":1571288336
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\receive_data.vhd":1571229025
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\apb3_if.vhd":1571288427
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\Image_Enhancement.vhd":1571227829
+#CUR:"C:\\Microsemi\\Libero_SoC_v2021.2\\SynplifyPro\\lib\\vhd2008\\signed.vhd":1626183375
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\LCD_FSM.vhd":1571229564
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\Write_LSRAM.vhd":1571229036
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\double_flop.vhd":1571288470
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\MUX5.vhd":1640782035
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\MUX6.vhd":1640782061
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\RamDualPort.vhd":1571228999
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\ROW_PTR.vhd":1640899863
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\RPoints.vhd":1641292698
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\WPOINTS.vhd":1640907966
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\XY_FIFO_CONTROL.vhd":1640907909
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\XY_GENERATOR.vhd":1641296438
+#CUR:"D:\\time_eternity\\desktop_download_doc_pic_vid_music\\Desktop\\industrie_and_space\\pro\\Image_Processing_with_low_power_demo\\HF10_OV7725_LCD_FF\\hdl\\mux_2_1.vhd":1571228981
+@E8lFkRDCl_kG.
+_4DsHLNRs$I	Fs
+bHMk#0RCHD_RH4
+M0bkR4Is_4HR
+bHMkI0RsH._RH4
+M0bkR4O#_4HR
+bHMkO0R#H._RH4
+M0bkR48O_4HR
+bHMk80ROH._RH4
+M0bkR4s8_4HR
+bHMks0R8H._RH4
+M0bkR08NNH4_RHU
+M0bkR08NNH._RFU
+kk0b0NR80FN_RFU
+kk0b0sRI_4FR
+0FkbRk0OF#_RF4
+kk0b0OR8_4FR
+0FkbRk0sF8_RC4
+MF8l8CkD
+8lFkRDCGo$_CsMCNs0F
+LDHs$NsRsIF	M
+HbRk08NN0_DPNHH8_RH4
+M0bkR8HMCHG_R
+4UHkMb0DRO	
+R4HkMb0CRs#MC0RF4
+kk0b0RRGgk
+F00bkRg$R
+0FkbRk0GP$_N8DHRF4
+kk0b0$RG_VsCsEC#RC4
+MF8l8CkD
+8lFkRDCGV$_H_VFO0FMs
+FDDsHLNRs$I	Fs
+bHMk#0R$O#_DH	_RH4
+M0bkR#sCC_0MH
+R4HkMb0RRGgM
+HbRk0$
+RgHkMb0$RG_DPNH48R
+bHMkG0R$C_sV#sCE
+R4Fbk0k80RN_0NFUR4
+0FkbRk0I4CR
+8CMlkF8DlC
+FD8kCuRWmaQh1H
+DLssN$FRIsH	
+M0bkR11Y_iBp_4QR
+bHMk)0R a1 hR_Q4M
+HbRk0VFHV_bCl04$R
+bHMkV0RH_VFHUR4
+bHMkN0R_UHR
+bHMkM0RC_G0HCM8GN_L#4CRUk
+F00bkRNN_8_8sF6R4
+0FkbRk0NC_I_4FR
+0FkbRk0N__8F
+RUFbk0kV0RH_VFsFC_RC4
+MF8l8CkD
+8lFkRDC)Qumh
+a1DsHLNRs$I	Fs
+bHMk#0R$O#_D	FO_4HR
+bHMks0RC0#CMR_H4M
+HbRk0P$_#MsO_C
+R4HkMb0NR80PN_N8DH_4HR
+0FkbRk0L8_N8Fs_R
+46HkMb0_RLF_k0HUMR
+0FkbRk0#RCD4k
+F00bkRGMC0M_H8_CGLCN#R
+.jClM8FD8kCF
+l8CkDRW)m_)ua
+LDHs$NsRsIF	M
+HbRk0)  1aQh_RH4
+M0bkR11Y_iBp_4QR
+bHMk70Rq_aqeQqp7R_Q4M
+HbRk0eY_1hQB_RH4
+M0bkRv)q_7q7)jR4
+0FkbRk0)_mWu_a)mjR4
+0FkbRk0Q h7XUR4
+0FkbRk0H0MHRF4
+kk0b0_RP#O$M_RsC4M
+C88lFk
+DClkF8DsCRNkl7NFDusD0
+HNLssI$RF
+s	bNNslCC0sqR7aWq_Q]7aR0HMCsoC
+sbNN0lCCqsR7 7)1W1_Q]7aR0HMCsoC
+sbNN0lCCAsRz_ww7a u]MRH0CCosM
+HbRk0ORD	-H4
+M0bkR_ICN4R-
+bHMkI0RCR_L-H4
+M0bkR8N8sR_N-H4
+M0bkR8N8sR_L-H4
+M0bkR08NNR_N-F4
+kk0b0_RJL4R-
+8CMlkF8DlC
+FD8kCkRlGDn
+HNLssI$RF
+s	HkMb0hRQj
+RnHkMb0hRQ4
+RnHkMb0 R1p
+R4Fbk0km0RRCn
+MF8l8CkD
+8lFkRDCl6kG
+LDHs$NsRsIF	M
+HbRk0QRhj6M
+HbRk0QRh46M
+HbRk01R p4k
+F00bkR6mR
+8CMlkF8DlC
+FD8kCFR8kCLD_FVDbH
+DLssN$FRIsH	
+M0bkR1)  _ahQ
+R4HkMb0YR11p_BiR_Q4M
+HbRk0uiBp_4QR
+bHMk70Rq_aqQ
+RUHkMb0)R] Qw_RF4
+kk0b0BRupmi_RF4
+kk0b0qR7amq_RFU
+kk0b0)R] mw_RC4
+MF8l8CkD
+8lFkRDCWa)Q 1_p)
+qvDsHLNRs$I	Fs
+sbNN0lCCtsR_a7qqQ_W7Ra]HCM0o
+CsbNNslCC0s_Rtq)77 _11WaQ7]MRH0CCosM
+HbRk0)  1aQh_R
+-4HkMb0YR11p_BiR_Q-H4
+M0bkRpuBiR_Q-H4
+M0bkR)]_ Qw_R
+-4HkMb0_Re1BYh_-QR4M
+HbRk07qqa_-QR4k
+F00bkRv)q__W) mh_R
+-4Fbk0k70Rq_aqm4R-
+0FkbRk0)_qvq)77 _11m4R-
+8CMlkF8DlC
+FD8kCBRp71_wvH
+DLssN$FRIsH	
+M0bkR##$_	OD_4HR
+bHMks0RC0#C_4HR
+bHMkH0RM_H08CFM_4HR
+bHMkP0R_M#$OR_H4M
+HbRk0)_qvWa)Q 7_q7Q)_R
+4jHkMb0NRslN_80HN_R
+4nFbk0kD0ROI8_sR_F4k
+F00bkR_O#F
+R4Fbk0k80ROR_F4k
+F00bkRlsN_NsC8M_C_4FR
+0FkbRk0s_NlNs88_4FRjk
+F00bkR08NNR_FUM
+C88lFk
+DClkF8DQCRlCNo_E MNCMOl0CM
+LDHs$NsRsIF	N
+bsCNl0RCstQ_uX_ pWaQ7]MRH0CCosM
+HbRk0)  1aQh_R
+-4HkMb0YR11p_BiR_Q-H4
+M0bkRa7qqq_ep_Q7Q4R-
+bHMk 0RhpqA R_Q-H4
+M0bkRa7qqR_Q-H4
+M0bkRv)q_7q7)R_Q-H4
+M0bkRB)_mah1_-QR4M
+HbRk0tm_Bh_1aQ4R-
+bHMkA0R_hBm1Qa_R
+-4HkMb0mRBvhvm_hBm1Qa_R
+-4Fbk0k70Rq_aqeQqp7R_m-F4
+kk0b0qR)v7_q7m)_R
+-4Fbk0k70Rq_aqm4R-
+8CMlkF8DlC
+FD8kCbRNLHd_VH
+DLssN$FRIsb	
+NlsNCs0CRqo_u_AdQ7w_q_aqWaQ7]MRH0CCosN
+bsCNl0RCsom_Bh_1aWaQ7]MRH0CCosM
+HbRk0b#sCCH0_R
+-4HkMb0ORbDH	_R
+-4HkMb0#RbCHD_R
+-4HkMb0IRbsCH0_-HR4M
+HbRk0bNCML_DCH4R-
+bHMkb0RNs88_-HR4M
+HbRk0bNI80HN_R
+-4Fbk0kb0Rs8CN$R_F-F4
+kk0b0#RbDsPCsR_F-F4
+kk0b0OR8_-FR4k
+F00bkR_O#F4R-
+0FkbRk0D_O8IFs_R
+-4Fbk0kD0ROs8_8R_F-F4
+kk0b0NR80FN_R
+-4Fbk0kH0RM_H08CFM_-FR4M
+C88lFk
+DClkF8DsCRCHOCP8C_N
+0NDsHLNRs$I	Fs
+bHMks0RC0#C_4HR
+bHMk#0R$O#_DH	_RH4
+M0bkR_sGs_8$H
+R4HkMb0NR80HN_RFU
+kk0b0CRFMR_F4k
+F00bkR08NN8_s$R_F4k
+F00bkR8N8sR_F4Fn
+kk0b0NR80FN_R
+d.ClM8FD8kCF
+l8CkDR8N8sC_8OCF8sH
+DLssN$FRIsb	
+NlsNCs0CRBo_mah1_7WQaH]RMo0CCHs
+M0bkR#sCCH0_R
+-4HkMb0$R##D_O	R_H-H4
+M0bkR08NN8_s$R_H-H4
+M0bkR8N8sR_H-H4
+M0bkR08NNR_H-F4
+kk0b0CRs8F_OM_#0F4R-
+0FkbRk0oCsCMF_OM_#0F4R-
+0FkbRk0LCDk_MOF#F0_R
+-4Fbk0kO0RFFllMF_OM_#0F4R-
+8CMlkF8DlC
+FD8kCwRw_ht  a)qmD)
+HNLssI$RF
+s	HkMb0CRs#_C0H
+R4HkMb0$R##D_O	R_H4M
+HbRk0V0V_F0_#N_s0H
+R4HkMb0VRV_M8FCR_H4k
+F00bkRlON_8bIMR_F4M
+C88lFk
+DC
+
+@ 

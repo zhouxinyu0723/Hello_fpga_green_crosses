@@ -1,0 +1,1849 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/simulation
+Eaddr_decoder
+Z1 w1571288336
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 48
+Z5 dD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/simulation
+Z6 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/addr_decoder.vhd
+Z7 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/addr_decoder.vhd
+l0
+Z8 L30 1
+VY5;DXYS;caKZS6:F]b@l53
+!s100 Nm_iQk6beQOQ8PdUQ1Na?0
+Z9 OW;C;2020.4;71
+33
+Z10 !s110 1639993516
+!i10b 1
+Z11 !s108 1639993516.000000
+Z12 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/addr_decoder.vhd|
+Z13 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/addr_decoder.vhd|
+!i113 1
+Z14 o-2008 -explicit -work presynth -O0
+Z15 tCvgOpt 0
+Aaddr_decoder
+R2
+R3
+R4
+DEx4 work 12 addr_decoder 0 22 Y5;DXYS;caKZS6:F]b@l53
+!i122 48
+l95
+L72 99
+VfXKjQB;1MhB[6KNiNMWWU2
+!s100 g8^K80k2Aj7NkHTaidNlI1
+R9
+33
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eapb3_if
+Z16 w1571288427
+R2
+R3
+R4
+!i122 51
+R5
+Z17 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/apb3_if.vhd
+Z18 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/apb3_if.vhd
+l0
+Z19 L31 1
+V:aFBXmI0>5jz4>m9dzg4F0
+!s100 eVh64eARZQ5d4mB];28F_0
+R9
+33
+Z20 !s110 1639993517
+!i10b 1
+Z21 !s108 1639993517.000000
+Z22 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/apb3_if.vhd|
+Z23 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/apb3_if.vhd|
+!i113 1
+R14
+R15
+Aapb3_if
+R2
+R3
+R4
+DEx4 work 7 apb3_if 0 22 :aFBXmI0>5jz4>m9dzg4F0
+!i122 51
+l99
+L73 119
+VTH^;C=8W7;7?dbH1NGf9S3
+!s100 J_bH0L<>?V6A_HB7f[SDO0
+R9
+33
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R14
+R15
+vCoreReset_FF
+Z24 !s110 1639993515
+!i10b 1
+!s100 EKJgWlW?Qb1Jo604leW040
+Z25 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILncnYHkzAnPndd^V:OJn@0
+R5
+Z26 w1566542088
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/coreresetp.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/coreresetp.v
+!i122 35
+L0 23 1869
+Z27 VDg1SIo80bB@j0V0VzS_@n1
+Z28 OW;L;2020.4;71
+r1
+!s85 0
+31
+Z29 !s108 1639993515.000000
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/coreresetp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/coreresetp.v|
+!s101 -O0
+!i113 1
+Z30 o-vlog01compat -work presynth -O0
+R15
+n@core@reset_@f@f
+vCORERESET_FF_0
+R24
+!i10b 1
+!s100 g>W;D:APnakY8HoU8<CJz2
+R25
+ID=U[D9YFgPV8AFC40H5MI3
+R5
+R26
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/CORERESETP_0.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/CORERESETP_0.v
+!i122 36
+L0 9 188
+R27
+R28
+r1
+!s85 0
+31
+R29
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/CORERESETP_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/CORERESETP_0.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@r@e@s@e@t_@f@f_0
+vcorereset_ff_pcie_hotreset
+R24
+!i10b 1
+!s100 LMH2hTU5lQ=1agR;Lln_]2
+R25
+IJgCD6bZzaWB>G5V8hCFGe2
+R5
+R26
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/coreresetp_pcie_hotreset.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/coreresetp_pcie_hotreset.v
+!i122 34
+L0 31 246
+R27
+R28
+r1
+!s85 0
+31
+R29
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/coreresetp_pcie_hotreset.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/coreresetp_pcie_hotreset.v|
+!s101 -O0
+!i113 1
+R30
+R15
+vCoreResetP
+Z31 !s110 1559113568
+!i10b 1
+!s100 @Zo];e514VV7P1g<jcJXD0
+Ia?Bm`S:GicnhkT@m=UmSe1
+R27
+Z32 dD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/simulation
+Z33 w1559108844
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/Actel/DirectCore/CoreResetP/8.0.103/rtl/vlog/core/coreresetp.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/Actel/DirectCore/CoreResetP/8.0.103/rtl/vlog/core/coreresetp.v
+L0 23
+Z34 OW;L;10.7c;67
+r1
+!s85 0
+31
+Z35 !s108 1559113568.000000
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/Actel/DirectCore/CoreResetP/8.0.103/rtl/vlog/core/coreresetp.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/Actel/DirectCore/CoreResetP/8.0.103/rtl/vlog/core/coreresetp.v|
+!s101 -O0
+!i113 1
+R30
+Z36 !s92 +incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4 -vlog01compat -work presynth -O0
+R15
+n@core@reset@p
+vcoreresetp_pcie_hotreset
+R31
+!i10b 1
+!s100 THP8d2do=M7PPiWYRQc2X2
+IDN:`5e><NXkL:>N5Z7MHS1
+R27
+R32
+R33
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/Actel/DirectCore/CoreResetP/8.0.103/rtl/vlog/core/coreresetp_pcie_hotreset.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/Actel/DirectCore/CoreResetP/8.0.103/rtl/vlog/core/coreresetp_pcie_hotreset.v
+L0 31
+R34
+r1
+!s85 0
+31
+R35
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/Actel/DirectCore/CoreResetP/8.0.103/rtl/vlog/core/coreresetp_pcie_hotreset.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/Actel/DirectCore/CoreResetP/8.0.103/rtl/vlog/core/coreresetp_pcie_hotreset.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+vCOREUART_C0
+R10
+!i10b 1
+!s100 FfJoKN?e_bL^JWCzE0^MJ1
+R25
+IC@HH<T6>PZc1ljV`NUZfZ2
+R5
+Z37 w1561626276
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0.v
+!i122 47
+L0 9 131
+R27
+R28
+r1
+!s85 0
+31
+R11
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@u@a@r@t_@c0
+vCOREUART_C0_COREUART_C0_0_Clock_gen
+R10
+!i10b 1
+!s100 S:@c2OYTHkJ7lhEbm_ISl2
+R25
+IWLm<i?YSUh=XS?Hfke=U:1
+R5
+R37
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Clock_gen.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Clock_gen.v
+!i122 45
+L0 30 1161
+R27
+R28
+r1
+!s85 0
+31
+R11
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Clock_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Clock_gen.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@u@a@r@t_@c0_@c@o@r@e@u@a@r@t_@c0_0_@clock_gen
+vCOREUART_C0_COREUART_C0_0_COREUART
+R10
+!i10b 1
+!s100 M1FZKUV7O@<YbbTQ47RHe0
+R25
+Il?9=:S4F5<RFUmCPgKiOd2
+R5
+R37
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/CoreUART.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/CoreUART.v
+!i122 46
+L0 14 1802
+R27
+R28
+r1
+!s85 0
+31
+R11
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/CoreUART.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/CoreUART.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@u@a@r@t_@c0_@c@o@r@e@u@a@r@t_@c0_0_@c@o@r@e@u@a@r@t
+vCOREUART_C0_COREUART_C0_0_fifo_256x8
+R10
+!i10b 1
+!s100 ROcHzfBY40fO>5A=d7Jig3
+R25
+I_=IVS=jCabeTF8^OWg?DC2
+R5
+R37
+Z38 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/fifo_256x8_g4.v
+Z39 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/fifo_256x8_g4.v
+!i122 44
+L0 14 153
+R27
+R28
+r1
+!s85 0
+31
+R11
+Z40 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/fifo_256x8_g4.v|
+Z41 !s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/fifo_256x8_g4.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@u@a@r@t_@c0_@c@o@r@e@u@a@r@t_@c0_0_fifo_256x8
+vCOREUART_C0_COREUART_C0_0_fifo_ctrl_128
+R10
+!i10b 1
+!s100 MoKP9R[5iSMaXDFUj764a3
+R25
+IaEQ;HNKU_j?OELP4gc?k40
+R5
+R37
+R38
+R39
+!i122 44
+L0 167 549
+R27
+R28
+r1
+!s85 0
+31
+R11
+R40
+R41
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@u@a@r@t_@c0_@c@o@r@e@u@a@r@t_@c0_0_fifo_ctrl_128
+vCOREUART_C0_COREUART_C0_0_ram128x8_pa4
+R10
+!i10b 1
+!s100 GfKl9hHTfTiE_nh7LkDmh1
+R25
+IBnm_9zJD<D^HhR8[<k5_80
+R5
+R37
+R38
+R39
+!i122 44
+L0 716 371
+R27
+R28
+r1
+!s85 0
+31
+R11
+R40
+R41
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@u@a@r@t_@c0_@c@o@r@e@u@a@r@t_@c0_0_ram128x8_pa4
+vCOREUART_C0_COREUART_C0_0_Rx_async
+R10
+!i10b 1
+!s100 1z`eBa>1kC4;OfbOm5:LW0
+R25
+I>FUYIjk:6S@Pef5gX4O_[2
+R5
+R37
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Rx_async.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Rx_async.v
+!i122 42
+L0 14 1935
+R27
+R28
+r1
+!s85 0
+31
+R11
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Rx_async.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Rx_async.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@u@a@r@t_@c0_@c@o@r@e@u@a@r@t_@c0_0_@rx_async
+vCOREUART_C0_COREUART_C0_0_Tx_async
+R10
+!i10b 1
+!s100 E;LoSODe>WD=EiQlM:6I?3
+R25
+IFOh6FVl:Ae0XI0Qm2FYOX2
+R5
+R37
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Tx_async.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Tx_async.v
+!i122 43
+L0 14 883
+R27
+R28
+r1
+!s85 0
+31
+R11
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Tx_async.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREUART_C0/COREUART_C0_0/rtl/vlog/core_obfuscated/Tx_async.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@c@o@r@e@u@a@r@t_@c0_@c@o@r@e@u@a@r@t_@c0_0_@tx_async
+vCRC
+Z42 !s110 1559113564
+!i10b 1
+!s100 I;Q_;H>J9H7YJfd3FOF?i1
+ITGbBo>[ELOi=jHoUP9e2g3
+R27
+R32
+w1559106389
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/CRC/CRC.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/CRC/CRC.v
+L0 9
+R34
+r1
+!s85 0
+31
+Z43 !s108 1559113564.000000
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/CRC/CRC.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/CRC/CRC.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@c@r@c
+vcrc_256
+R42
+!i10b 1
+!s100 aaZ>E_LI=nhogT6M2>RT=2
+ISCHa[3XK0Ld1KCYjGzh4M3
+R27
+R32
+Z44 w1559026622
+Z45 8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/crc_256_pwr.v
+Z46 FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/crc_256_pwr.v
+Z47 L0 14
+R34
+r1
+!s85 0
+31
+R43
+Z48 !s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/crc_256_pwr.v|
+Z49 !s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/crc_256_pwr.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+vcrc_256_pwr
+R42
+!i10b 1
+!s100 W@XQdWFLlhEP9aUm=C[TT0
+IKVlnNJ6`lbEGH`2Pnm]h30
+R27
+R32
+R44
+R45
+R46
+L0 121
+R34
+r1
+!s85 0
+31
+R43
+R48
+R49
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+vcrc_256_repeat
+R42
+!i10b 1
+!s100 AEj?7c52`95d1;zYL:b=b0
+Ifb[2e5Ld^5k4iHLk1Q_052
+R27
+R32
+R44
+R45
+R46
+L0 81
+R34
+r1
+!s85 0
+31
+R43
+R48
+R49
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+vDATA_HANDLE
+Z50 !s110 1559113565
+!i10b 1
+!s100 0GBXDldKO;j;E0U`GDh:R2
+I9J^]A`YPV>be@<HOoXIiN1
+R27
+R32
+Z51 w1557471400
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/DATA_HANDLE.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/DATA_HANDLE.v
+L0 9
+R34
+r1
+!s85 0
+31
+Z52 !s108 1559113565.000000
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/DATA_HANDLE.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/DATA_HANDLE.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@d@a@t@a_@h@a@n@d@l@e
+vDATA_HANDLE_COREUART_0_Clock_gen
+R50
+!i10b 1
+!s100 LzgS5_i810<5@ikgKhL>Q1
+IVUGXEW5QzWAG2A1nPH:Rl0
+R27
+R32
+R51
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Clock_gen.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Clock_gen.v
+L0 30
+R34
+r1
+!s85 0
+31
+R52
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Clock_gen.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Clock_gen.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@d@a@t@a_@h@a@n@d@l@e_@c@o@r@e@u@a@r@t_0_@clock_gen
+vDATA_HANDLE_COREUART_0_COREUART
+R50
+!i10b 1
+!s100 YZjI1<ODn81d6d=0;VJ^z0
+I@5SRo^LPGl6h[=M8dmEWo3
+R27
+R32
+R51
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/CoreUART.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/CoreUART.v
+R47
+R34
+r1
+!s85 0
+31
+R52
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/CoreUART.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/CoreUART.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@d@a@t@a_@h@a@n@d@l@e_@c@o@r@e@u@a@r@t_0_@c@o@r@e@u@a@r@t
+vDATA_HANDLE_COREUART_0_fifo_256x8
+R50
+!i10b 1
+!s100 zbo8XeoWBj[JLZlQ8<Dbm2
+Iaik@<>eXm]aEJ1b]ASA5i3
+R27
+R32
+R51
+Z53 8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/fifo_256x8_g4.v
+Z54 FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/fifo_256x8_g4.v
+R47
+R34
+r1
+!s85 0
+31
+R52
+Z55 !s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/fifo_256x8_g4.v|
+Z56 !s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/fifo_256x8_g4.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@d@a@t@a_@h@a@n@d@l@e_@c@o@r@e@u@a@r@t_0_fifo_256x8
+vDATA_HANDLE_COREUART_0_fifo_ctrl_128
+R50
+!i10b 1
+!s100 GQK7OAflB89ZFN6K^JcR92
+Ie9RTI6njiPXB0GZ5YF[aZ2
+R27
+R32
+R51
+R53
+R54
+L0 167
+R34
+r1
+!s85 0
+31
+R52
+R55
+R56
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@d@a@t@a_@h@a@n@d@l@e_@c@o@r@e@u@a@r@t_0_fifo_ctrl_128
+vDATA_HANDLE_COREUART_0_ram128x8_pa4
+R50
+!i10b 1
+!s100 1gY=^]K7Z3FYXFn7SNNlk1
+I?<zURgoKh]Q6e7De`J?>d1
+R27
+R32
+R51
+R53
+R54
+L0 716
+R34
+r1
+!s85 0
+31
+R52
+R55
+R56
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@d@a@t@a_@h@a@n@d@l@e_@c@o@r@e@u@a@r@t_0_ram128x8_pa4
+vDATA_HANDLE_COREUART_0_Rx_async
+R50
+!i10b 1
+!s100 0PilHM2OCU9;Xn:h]W5F41
+I94BK@iFKVK<3=ZLfY=Eh61
+R27
+R32
+R51
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Rx_async.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Rx_async.v
+R47
+R34
+r1
+!s85 0
+31
+R52
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Rx_async.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Rx_async.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@d@a@t@a_@h@a@n@d@l@e_@c@o@r@e@u@a@r@t_0_@rx_async
+vDATA_HANDLE_COREUART_0_Tx_async
+R50
+!i10b 1
+!s100 bBWI]8loJN5MGXE6d8;Cd0
+I^_J0K;c;BUek[W=ClTG352
+R27
+R32
+R51
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Tx_async.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Tx_async.v
+R47
+R34
+r1
+!s85 0
+31
+R52
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Tx_async.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/DATA_HANDLE/COREUART_0/rtl/vlog/core_obfuscated/Tx_async.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@d@a@t@a_@h@a@n@d@l@e_@c@o@r@e@u@a@r@t_0_@tx_async
+Edouble_flop
+Z57 w1571288470
+R2
+R3
+R4
+!i122 56
+R5
+Z58 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/double_flop.vhd
+Z59 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/double_flop.vhd
+l0
+R8
+VXi`fL[=I9=f=e53jfe[VQ3
+!s100 z`LRca7m07TH@DLh408=`0
+R9
+33
+R20
+!i10b 1
+R21
+Z60 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/double_flop.vhd|
+Z61 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/double_flop.vhd|
+!i113 1
+R14
+R15
+Adouble_flop
+R2
+R3
+R4
+DEx4 work 11 double_flop 0 22 Xi`fL[=I9=f=e53jfe[VQ3
+!i122 56
+l81
+L58 70
+VJ0TSjHFCm<kHbVY5mI14X1
+!s100 ]e9^^L34S^b]C]:jXDPaC2
+R9
+33
+R20
+!i10b 1
+R21
+R60
+R61
+!i113 1
+R14
+R15
+vFCCC_C0
+R50
+!i10b 1
+!s100 7BNEGYN;DH4MAPh5QSaQn1
+I]IOz[ZY1EXYc^Zff>l`<M2
+R27
+R32
+w1559110341
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FCCC_C0/FCCC_C0.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FCCC_C0/FCCC_C0.v
+L0 9
+R34
+r1
+!s85 0
+31
+R52
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FCCC_C0/FCCC_C0.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FCCC_C0/FCCC_C0.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@c@c@c_@c0
+vFCCC_C0_FCCC_C0_0_FCCC
+R50
+!i10b 1
+!s100 :0<k8dFTn`Q;babd1dFzH0
+I0gFDO1[On<B>@lT8RTdcK1
+R27
+R32
+w1559110340
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FCCC_C0/FCCC_C0_0/FCCC_C0_FCCC_C0_0_FCCC.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FCCC_C0/FCCC_C0_0/FCCC_C0_FCCC_C0_0_FCCC.v
+L0 5
+R34
+r1
+!s85 0
+31
+R43
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FCCC_C0/FCCC_C0_0/FCCC_C0_FCCC_C0_0_FCCC.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FCCC_C0/FCCC_C0_0/FCCC_C0_FCCC_C0_0_FCCC.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@c@c@c_@c0_@f@c@c@c_@c0_0_@f@c@c@c
+vFF_EXT
+R24
+!i10b 1
+!s100 AM_lY589RTKQCLiU4Ofdz3
+R25
+ILm?kI2aMN`eT@JD=Gd@gD0
+R5
+w1571202790
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/FF_EXT.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/FF_EXT.v
+!i122 32
+L0 1 20
+R27
+R28
+r1
+!s85 0
+31
+R29
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/FF_EXT.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/FF_EXT.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@f@f_@e@x@t
+Eff_generator
+Z62 w1571288684
+Z63 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R3
+R4
+Z64 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+!i122 33
+R5
+Z65 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/FF_GENERATOR.vhd
+Z66 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/FF_GENERATOR.vhd
+l0
+R8
+VO76SlQj56<oIBh>b5>O6l0
+!s100 ?i5b^l>2L[D^C[]03c^kT3
+R9
+33
+R24
+!i10b 1
+R29
+Z67 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/FF_GENERATOR.vhd|
+Z68 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/FF_GENERATOR.vhd|
+!i113 1
+R14
+R15
+Aff_generator
+R63
+R3
+R4
+R64
+DEx4 work 12 ff_generator 0 22 O76SlQj56<oIBh>b5>O6l0
+!i122 33
+l72
+L51 76
+VE_1;o6bQ@PMI`cZiCg<WX2
+!s100 F6kPAiZ>YPckA;T<6QUbP3
+R9
+33
+R24
+!i10b 1
+R29
+R67
+R68
+!i113 1
+R14
+R15
+vFILTERCONTROL_FSM
+Z69 !s110 1559113566
+!i10b 1
+!s100 QnR_Y^`QGj:U2HFzJi6z>0
+IGXj>^2]VT4KlMHGcDZ^e41
+R27
+R32
+w1380850752
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/FILTER_CONTROL_FSM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/FILTER_CONTROL_FSM.v
+Z70 L0 20
+R34
+r1
+!s85 0
+31
+R52
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/FILTER_CONTROL_FSM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/FILTER_CONTROL_FSM.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@i@l@t@e@r@c@o@n@t@r@o@l_@f@s@m
+vFIR_FILTER
+R31
+!i10b 1
+!s100 heHeR2SDjH_2@K?4J@?Xn2
+IcM=24n3CfzK4cdoUmV1oj0
+R27
+R32
+Z71 w1559106409
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_FILTER.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_FILTER.v
+L0 9
+R34
+r1
+!s85 0
+31
+R35
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_FILTER.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_FILTER.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@i@r_@f@i@l@t@e@r
+vFIR_FILTER_Coef_Buff_TPSRAM
+R69
+!i10b 1
+!s100 m5oFzYoaQeBE]:gc6g49G3
+Ic[kF0Ykf33hFNE8a[@6FG2
+R27
+R32
+w1559106398
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/Coef_Buff/FIR_FILTER_Coef_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/Coef_Buff/FIR_FILTER_Coef_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+Z72 !s108 1559113566.000000
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/Coef_Buff/FIR_FILTER_Coef_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/Coef_Buff/FIR_FILTER_Coef_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@i@r_@f@i@l@t@e@r_@coef_@buff_@t@p@s@r@a@m
+vFIR_FILTER_FFT_Im_Buff_TPSRAM
+R69
+!i10b 1
+!s100 d8zaalYZIIB<KP>c4o95=1
+IYV`D1f?LWB4;I@Mn[7j?<0
+R27
+R32
+w1559106404
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FFT_Im_Buff/FIR_FILTER_FFT_Im_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FFT_Im_Buff/FIR_FILTER_FFT_Im_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+R72
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FFT_Im_Buff/FIR_FILTER_FFT_Im_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FFT_Im_Buff/FIR_FILTER_FFT_Im_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@i@r_@f@i@l@t@e@r_@f@f@t_@im_@buff_@t@p@s@r@a@m
+vFIR_FILTER_FFT_Re_Buff_TPSRAM
+R69
+!i10b 1
+!s100 hD2^HEQb?_hI1TGdbF21d1
+IlVC3:WDTM;_[c39QoaTab1
+R27
+R32
+w1559106406
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FFT_Re_Buff/FIR_FILTER_FFT_Re_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FFT_Re_Buff/FIR_FILTER_FFT_Re_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+R72
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FFT_Re_Buff/FIR_FILTER_FFT_Re_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FFT_Re_Buff/FIR_FILTER_FFT_Re_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@i@r_@f@i@l@t@e@r_@f@f@t_@re_@buff_@t@p@s@r@a@m
+vFIR_FILTER_FIR_IN_Buff_TPSRAM
+R69
+!i10b 1
+!s100 Za=`_W3h;k0XNcdaUhd4z1
+I:`hgA2@KGS[SlM`_4UDaM1
+R27
+R32
+w1559106408
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_IN_Buff/FIR_FILTER_FIR_IN_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_IN_Buff/FIR_FILTER_FIR_IN_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+R72
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_IN_Buff/FIR_FILTER_FIR_IN_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_IN_Buff/FIR_FILTER_FIR_IN_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@i@r_@f@i@l@t@e@r_@f@i@r_@i@n_@buff_@t@p@s@r@a@m
+vFIR_FILTER_FIR_Out_Buff_TPSRAM
+R69
+!i10b 1
+!s100 CPGK0e^_^k=klja_]G7YC2
+Ih2i:8?R:Y_de9nR2=>ONl3
+R27
+R32
+R71
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_Out_Buff/FIR_FILTER_FIR_Out_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_Out_Buff/FIR_FILTER_FIR_Out_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+R72
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_Out_Buff/FIR_FILTER_FIR_Out_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/FIR_Out_Buff/FIR_FILTER_FIR_Out_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@f@i@r_@f@i@l@t@e@r_@f@i@r_@out_@buff_@t@p@s@r@a@m
+vFlashFreeze_SB
+R24
+!i10b 1
+!s100 e3kVMizCD>fFZ=AG492g50
+R25
+ImYGVS6=d`5=KzZd=;g9=81
+R5
+Z73 w1566542219
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB/FlashFreeze_SB.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB/FlashFreeze_SB.v
+!i122 39
+L0 9 280
+R27
+R28
+r1
+!s85 0
+31
+R29
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB/FlashFreeze_SB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB/FlashFreeze_SB.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@flash@freeze_@s@b
+vFlashFreeze_SB_CCC_0_FCCC
+R24
+!i10b 1
+!s100 j1n`MA9Vg36;28iA^[C_]2
+R25
+I?^JnP^h<jKWjAgzKIPm8i1
+R5
+R73
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB/CCC_0/FlashFreeze_SB_CCC_0_FCCC.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB/CCC_0/FlashFreeze_SB_CCC_0_FCCC.v
+!i122 37
+L0 5 43
+R27
+R28
+r1
+!s85 0
+31
+R29
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB/CCC_0/FlashFreeze_SB_CCC_0_FCCC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB/CCC_0/FlashFreeze_SB_CCC_0_FCCC.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@flash@freeze_@s@b_@c@c@c_0_@f@c@c@c
+vFlashFreeze_SB_MSS
+R24
+!i10b 1
+!s100 o[PKzBUkii^Mc0F2U:jN;3
+R25
+I:;DH8Y338fb9f`7:n;Y??3
+R5
+w1561376255
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB_MSS/FlashFreeze_SB_MSS.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB_MSS/FlashFreeze_SB_MSS.v
+!i122 38
+L0 9 739
+R27
+R28
+r1
+!s85 0
+31
+R29
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB_MSS/FlashFreeze_SB_MSS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/FlashFreeze_SB_MSS/FlashFreeze_SB_MSS.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@flash@freeze_@s@b_@m@s@s
+vIGL2_FIR_FILTER
+!s110 1559037133
+!i10b 1
+!s100 17;i>;MbEXVMZf40[90<m2
+In:C[z^TAo1`>UV[Cfhn3]3
+R27
+R0
+Z74 w1559034949
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/IGL2_FIR_FILTER.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/IGL2_FIR_FILTER.v
+L0 9
+R34
+r1
+!s85 0
+31
+!s108 1559037133.000000
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/IGL2_FIR_FILTER.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/IGL2_FIR_FILTER.v|
+!s101 -O0
+!i113 1
+R30
+Z75 !s92 {+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4} -vlog01compat -work presynth -O0
+R15
+n@i@g@l2_@f@i@r_@f@i@l@t@e@r
+vIGL2_FIR_FILTER_Coef_Buff_TPSRAM
+Z76 !s110 1559037130
+!i10b 1
+!s100 K_gjhHV_M1EHRIWb]Yd[i1
+IUoOSE=^5D17CRek1]1Ubc2
+R27
+R0
+w1559034934
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/Coef_Buff/IGL2_FIR_FILTER_Coef_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/Coef_Buff/IGL2_FIR_FILTER_Coef_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+Z77 !s108 1559037130.000000
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/Coef_Buff/IGL2_FIR_FILTER_Coef_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/Coef_Buff/IGL2_FIR_FILTER_Coef_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R75
+R15
+n@i@g@l2_@f@i@r_@f@i@l@t@e@r_@coef_@buff_@t@p@s@r@a@m
+vIGL2_FIR_FILTER_FCCC_0_FCCC
+R76
+!i10b 1
+!s100 SoRfTKF]i]_EW1ddjHOWY3
+I00=OUYAG8nF5bIIGIZa9]0
+R27
+R0
+w1559034939
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FCCC_0/IGL2_FIR_FILTER_FCCC_0_FCCC.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FCCC_0/IGL2_FIR_FILTER_FCCC_0_FCCC.v
+L0 5
+R34
+r1
+!s85 0
+31
+R77
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FCCC_0/IGL2_FIR_FILTER_FCCC_0_FCCC.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FCCC_0/IGL2_FIR_FILTER_FCCC_0_FCCC.v|
+!s101 -O0
+!i113 1
+R30
+R75
+R15
+n@i@g@l2_@f@i@r_@f@i@l@t@e@r_@f@c@c@c_0_@f@c@c@c
+vIGL2_FIR_FILTER_FFT_Im_Buff_TPSRAM
+Z78 !s110 1559037131
+!i10b 1
+!s100 0[JX>XZ5[;ck;1TmjWenG3
+I0[f5:[Wdk[9mSmmmX2cWa2
+R27
+R0
+w1559034941
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FFT_Im_Buff/IGL2_FIR_FILTER_FFT_Im_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FFT_Im_Buff/IGL2_FIR_FILTER_FFT_Im_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+R77
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FFT_Im_Buff/IGL2_FIR_FILTER_FFT_Im_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FFT_Im_Buff/IGL2_FIR_FILTER_FFT_Im_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R75
+R15
+n@i@g@l2_@f@i@r_@f@i@l@t@e@r_@f@f@t_@im_@buff_@t@p@s@r@a@m
+vIGL2_FIR_FILTER_FFT_Re_Buff_TPSRAM
+R78
+!i10b 1
+!s100 J3]LFfIiVIUHSihJYbUj23
+ILPni[b2^JD]Sj5UYN5^en0
+R27
+R0
+w1559034943
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FFT_Re_Buff/IGL2_FIR_FILTER_FFT_Re_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FFT_Re_Buff/IGL2_FIR_FILTER_FFT_Re_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+Z79 !s108 1559037131.000000
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FFT_Re_Buff/IGL2_FIR_FILTER_FFT_Re_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FFT_Re_Buff/IGL2_FIR_FILTER_FFT_Re_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R75
+R15
+n@i@g@l2_@f@i@r_@f@i@l@t@e@r_@f@f@t_@re_@buff_@t@p@s@r@a@m
+vIGL2_FIR_FILTER_FIR_IN_Buff_TPSRAM
+R78
+!i10b 1
+!s100 80lQUBi_S^1zlL1=H?Gk00
+I5GnBJYB5:^N>=65``Pb5I0
+R27
+R0
+w1559034945
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FIR_IN_Buff/IGL2_FIR_FILTER_FIR_IN_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FIR_IN_Buff/IGL2_FIR_FILTER_FIR_IN_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+R79
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FIR_IN_Buff/IGL2_FIR_FILTER_FIR_IN_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FIR_IN_Buff/IGL2_FIR_FILTER_FIR_IN_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R75
+R15
+n@i@g@l2_@f@i@r_@f@i@l@t@e@r_@f@i@r_@i@n_@buff_@t@p@s@r@a@m
+vIGL2_FIR_FILTER_FIR_Out_Buff_TPSRAM
+R78
+!i10b 1
+!s100 AZ05MZ8[_ac[<FQSJDg1z2
+IGdV@<j2eag<67zHHXAnLB3
+R27
+R0
+w1559034947
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FIR_Out_Buff/IGL2_FIR_FILTER_FIR_Out_Buff_TPSRAM.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FIR_Out_Buff/IGL2_FIR_FILTER_FIR_Out_Buff_TPSRAM.v
+L0 5
+R34
+r1
+!s85 0
+31
+R79
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FIR_Out_Buff/IGL2_FIR_FILTER_FIR_Out_Buff_TPSRAM.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/FIR_Out_Buff/IGL2_FIR_FILTER_FIR_Out_Buff_TPSRAM.v|
+!s101 -O0
+!i113 1
+R30
+R75
+R15
+n@i@g@l2_@f@i@r_@f@i@l@t@e@r_@f@i@r_@out_@buff_@t@p@s@r@a@m
+vIGL2_FIR_FILTER_OSC_0_OSC
+R78
+!i10b 1
+!s100 ZJlS]`N7M[_N[[gfao;IW2
+IkiCCFfXd7BO10j6=bB39<3
+R27
+R0
+R74
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/OSC_0/IGL2_FIR_FILTER_OSC_0_OSC.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/OSC_0/IGL2_FIR_FILTER_OSC_0_OSC.v
+L0 5
+R34
+r1
+!s85 0
+31
+R79
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/OSC_0/IGL2_FIR_FILTER_OSC_0_OSC.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER_new _50_sw/component/work/IGL2_FIR_FILTER/OSC_0/IGL2_FIR_FILTER_OSC_0_OSC.v|
+!s101 -O0
+!i113 1
+R30
+R75
+R15
+n@i@g@l2_@f@i@r_@f@i@l@t@e@r_@o@s@c_0_@o@s@c
+Eimage_enhancement
+Z80 w1571227829
+R63
+Z81 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R2
+R3
+R4
+!i122 53
+R5
+Z82 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/Image_Enhancement.vhd
+Z83 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/Image_Enhancement.vhd
+l0
+L32 1
+V>hzTM^:>[37TX5hE[IdT:2
+!s100 =9A7T4jh`mkh<DS]M3eDJ0
+R9
+33
+R20
+!i10b 1
+R21
+Z84 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/Image_Enhancement.vhd|
+Z85 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/Image_Enhancement.vhd|
+!i113 1
+R14
+R15
+Aimage_enhancement
+R63
+R81
+R2
+R3
+R4
+DEx4 work 17 image_enhancement 0 22 >hzTM^:>[37TX5hE[IdT:2
+!i122 53
+l122
+L86 149
+Vk80:9L^C99YHL_VOjA;F_3
+!s100 _@Qi9f1<9emW3cel407Y30
+R9
+33
+R20
+!i10b 1
+R21
+R84
+R85
+!i113 1
+R14
+R15
+Elcd_fsm
+Z86 w1571229564
+R63
+R64
+R2
+R3
+R4
+!i122 54
+R5
+Z87 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/LCD_FSM.vhd
+Z88 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/LCD_FSM.vhd
+l0
+R8
+V[[d6H=HaihEGe[`j9]9Rg1
+!s100 BDTlaWm8U;GS8[E@<QZa51
+R9
+33
+R20
+!i10b 1
+R21
+Z89 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/LCD_FSM.vhd|
+Z90 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/LCD_FSM.vhd|
+!i113 1
+R14
+R15
+Alcd_fsm
+R63
+R64
+R2
+R3
+R4
+DEx4 work 7 lcd_fsm 0 22 [[d6H=HaihEGe[`j9]9Rg1
+!i122 54
+l144
+L72 322
+Vk;lUjP@W0zf3HI1lU7M5_3
+!s100 i_hC40_hSndKB5cj]NaE12
+R9
+33
+R20
+!i10b 1
+R21
+R89
+R90
+!i113 1
+R14
+R15
+vled_blink
+R20
+!i10b 1
+!s100 =75aLC4cf?8NKQ;ARMVW82
+R25
+IZJJCcB]HYbKDI;d3^[`5N1
+R5
+w1571206292
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/led_blink.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/led_blink.v
+!i122 52
+L0 3 40
+R27
+R28
+r1
+!s85 0
+31
+R21
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/led_blink.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/led_blink.v|
+!s101 -O0
+!i113 1
+R30
+R15
+vline_write_read
+R20
+!i10b 1
+!s100 F9[PSM73=Fz4303Q`z7JI0
+R25
+IZ^goPUFoGODzT[=S_;aNe1
+R5
+w1565259472
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/line_write_read/line_write_read.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/line_write_read/line_write_read.v
+!i122 58
+L0 9 212
+R27
+R28
+r1
+!s85 0
+31
+R21
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/line_write_read/line_write_read.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/line_write_read/line_write_read.v|
+!s101 -O0
+!i113 1
+R30
+R15
+Emux_2_1
+Z91 w1571228981
+R63
+R3
+R4
+!i122 59
+R5
+Z92 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/mux_2_1.vhd
+Z93 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/mux_2_1.vhd
+l0
+L28 1
+V3RKY86Whh[mO^aLId`1B23
+!s100 <HLV<oA?_hL1P0YTaah663
+R9
+33
+Z94 !s110 1639993518
+!i10b 1
+Z95 !s108 1639993518.000000
+Z96 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/mux_2_1.vhd|
+Z97 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/mux_2_1.vhd|
+!i113 1
+R14
+R15
+Amux_2_1
+R63
+R3
+R4
+DEx4 work 7 mux_2_1 0 22 3RKY86Whh[mO^aLId`1B23
+!i122 59
+l101
+L83 46
+V>beFfd`98LB[74<dLcg611
+!s100 :Mn@hWoXi<gC5MzOYjzg30
+R9
+33
+R94
+!i10b 1
+R95
+R96
+R97
+!i113 1
+R14
+R15
+vOSC_C0
+R24
+!i10b 1
+!s100 :<G=cH6YbKF@JBDP9P61V0
+R25
+IN7TWC3ZBKEF2GIUK2FPO:2
+R5
+Z98 w1559110209
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/OSC_C0/OSC_C0.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/OSC_C0/OSC_C0.v
+!i122 41
+L0 9 51
+R27
+R28
+r1
+!s85 0
+31
+R29
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/OSC_C0/OSC_C0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/OSC_C0/OSC_C0.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@o@s@c_@c0
+vOSC_C0_OSC_C0_0_OSC
+R24
+!i10b 1
+!s100 YbaoY3DegN`NmnWOU<lSN0
+R25
+I2`DFjW=Y62R=z[4Z2426G1
+R5
+R98
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/OSC_C0/OSC_C0_0/OSC_C0_OSC_C0_0_OSC.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/OSC_C0/OSC_C0_0/OSC_C0_OSC_C0_0_OSC.v
+!i122 40
+L0 5 27
+R27
+R28
+r1
+!s85 0
+31
+R29
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/OSC_C0/OSC_C0_0/OSC_C0_OSC_C0_0_OSC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/OSC_C0/OSC_C0_0/OSC_C0_OSC_C0_0_OSC.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@o@s@c_@c0_@o@s@c_@c0_0_@o@s@c
+vPB_logic
+R42
+!i10b 1
+!s100 ;aCJ2dN<nDRJ3bCPR4ROF1
+IkGRNB5UeR<Uzgho154M4A2
+R27
+R32
+w1559043375
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/PB_logic.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/PB_logic.v
+L0 1
+R34
+r1
+!s85 0
+31
+R43
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/PB_logic.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/PB_logic.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@p@b_logic
+Eramdualport
+Z99 w1571228999
+R64
+R63
+R2
+R3
+R4
+!i122 57
+R5
+Z100 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/RamDualPort.vhd
+Z101 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/RamDualPort.vhd
+l0
+L33 1
+VnoHMUlaUbc1N?=b;:[aVi1
+!s100 ;TL`YjG1geja@]j1aGe?V2
+R9
+33
+R20
+!i10b 1
+R21
+Z102 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/RamDualPort.vhd|
+Z103 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/RamDualPort.vhd|
+!i113 1
+R14
+R15
+Aramdualport
+R64
+R63
+R2
+R3
+R4
+DEx4 work 11 ramdualport 0 22 noHMUlaUbc1N?=b;:[aVi1
+!i122 57
+l79
+L55 77
+VcRWPjkn=0=Z`M_nBOH;oQ2
+!s100 jH:5QoRm_Kga2HZY=O5nD0
+R9
+33
+R20
+!i10b 1
+R21
+R102
+R103
+!i113 1
+R14
+R15
+Ereceive_data
+Z104 w1571229025
+R63
+R64
+R3
+R4
+!i122 49
+R5
+Z105 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/receive_data.vhd
+Z106 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/receive_data.vhd
+l0
+R19
+VFjj@9LAMLz9c=iEeQ=aiE1
+!s100 I4^lI`L7VPz4k^PmnZaT]2
+R9
+33
+R10
+!i10b 1
+R11
+Z107 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/receive_data.vhd|
+Z108 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/receive_data.vhd|
+!i113 1
+R14
+R15
+Areceive_data
+R63
+R64
+R3
+R4
+DEx4 work 12 receive_data 0 22 Fjj@9LAMLz9c=iEeQ=aiE1
+!i122 49
+l108
+L65 339
+V[BIE2:b>0G7Klb:hjK9680
+!s100 MUA5C@[]TTaFWQePoZ^3g3
+R9
+33
+R10
+!i10b 1
+R11
+R107
+R108
+!i113 1
+R14
+R15
+vRESET_GEN
+R94
+!i10b 1
+!s100 IG:CBh<`9^0l>JSZDkDjP2
+R25
+IVPI4[5GD:i<gT;jR;=EAz2
+R5
+Z109 w1559037096
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/Simulation/RESET_GEN/1.0.1/RESET_GEN.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/Simulation/RESET_GEN/1.0.1/RESET_GEN.v
+!i122 61
+L0 3 25
+R27
+R28
+r1
+!s85 0
+31
+R95
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/Simulation/RESET_GEN/1.0.1/RESET_GEN.v|
+!s90 -reportprogress|300|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/Simulation/RESET_GEN/1.0.1|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/RESET_GEN_C0|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/test|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/Simulation/RESET_GEN/1.0.1/RESET_GEN.v|
+!s101 -O0
+!i113 1
+R30
+Z110 !s92 +incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/Simulation/RESET_GEN/1.0.1 +incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/RESET_GEN_C0 +incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/test -vlog01compat -work presynth -O0
+R15
+n@r@e@s@e@t_@g@e@n
+vRESET_GEN_C0
+R94
+!i10b 1
+!s100 mGf50IZhLWK]MGR1Vo3_:1
+R25
+I0k^O3L0XJTUI^QbnQ_b9i1
+R5
+R109
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/RESET_GEN_C0/RESET_GEN_C0.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/RESET_GEN_C0/RESET_GEN_C0.v
+!i122 62
+L0 9 33
+R27
+R28
+r1
+!s85 0
+31
+R95
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/RESET_GEN_C0/RESET_GEN_C0.v|
+!s90 -reportprogress|300|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/Simulation/RESET_GEN/1.0.1|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/RESET_GEN_C0|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/test|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/RESET_GEN_C0/RESET_GEN_C0.v|
+!s101 -O0
+!i113 1
+R30
+R110
+R15
+n@r@e@s@e@t_@g@e@n_@c0
+vtest
+R94
+!i10b 1
+!s100 kaH6zdcb`EnhLBfJ@9<f72
+R25
+I>[I17M9jnU80i7h[PIm=g1
+R5
+w1559113552
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/test/test.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/test/test.v
+!i122 63
+L0 9 94
+R27
+R28
+r1
+!s85 0
+31
+R95
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/test/test.v|
+!s90 -reportprogress|300|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/Simulation/RESET_GEN/1.0.1|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/RESET_GEN_C0|+incdir+D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/test|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/test/test.v|
+!s101 -O0
+!i113 1
+R30
+R110
+R15
+vTOP
+R94
+!i10b 1
+!s100 [Sj^lFHi`FjS?UaK@19HA0
+R25
+Im2QcfoJ>?EIgMMD_ajIiI1
+R5
+w1571289762
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/TOP/TOP.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/TOP/TOP.v
+!i122 60
+L0 9 338
+R27
+R28
+r1
+!s85 0
+31
+R95
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/TOP/TOP.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/TOP/TOP.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@t@o@p
+vUART_IF
+R50
+!i10b 1
+!s100 N1NLbSIa;N:Bh_jS_znQb2
+I<nQ_RN6TDcQHBZXDB61603
+R27
+R32
+w1380850676
+8D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/UART_IF.v
+FD:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/UART_IF.v
+R70
+R34
+r1
+!s85 0
+31
+R52
+!s107 D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/UART_IF.v|
+!s90 -reportprogress|300|+incdir+D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/FIR_FILTER/COREFIR_0/rtl/vlog/core/enum_SmFu4|-vlog01compat|-work|presynth|D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/hdl/UART_IF.v|
+!s101 -O0
+!i113 1
+R30
+R36
+R15
+n@u@a@r@t_@i@f
+vUART_interface
+R20
+!i10b 1
+!s100 ]Ca8Kll_6gS5hRfd@hVTl2
+R25
+IWUJF0PF?`9=T;J1AHVzNW0
+R5
+w1565245319
+8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/UART_interface/UART_interface.v
+FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/UART_interface/UART_interface.v
+!i122 50
+L0 9 142
+R27
+R28
+r1
+!s85 0
+31
+R21
+!s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/UART_interface/UART_interface.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/UART_interface/UART_interface.v|
+!s101 -O0
+!i113 1
+R30
+R15
+n@u@a@r@t_interface
+Ewrite_lsram
+Z111 w1571229036
+R2
+R63
+R81
+R3
+R4
+!i122 55
+R5
+Z112 8D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/Write_LSRAM.vhd
+Z113 FD:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/Write_LSRAM.vhd
+l0
+R19
+VY9oo1A1bni0jznY_8fc463
+!s100 N^?iz]i6nIVR<kUF<FN>S2
+R9
+33
+R20
+!i10b 1
+R21
+Z114 !s90 -reportprogress|300|-2008|-explicit|-work|presynth|D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/Write_LSRAM.vhd|
+Z115 !s107 D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/hdl/Write_LSRAM.vhd|
+!i113 1
+R14
+R15
+Awrite_lsram
+R2
+R63
+R81
+R3
+R4
+DEx4 work 11 write_lsram 0 22 Y9oo1A1bni0jznY_8fc463
+!i122 55
+l108
+L74 142
+VCc2OD]6K82O1>Kl?4ZTDJ2
+!s100 dAPX_nP8l@h`IfNHfPSie0
+R9
+33
+R20
+!i10b 1
+R21
+R114
+R115
+!i113 1
+R14
+R15

@@ -1,0 +1,11 @@
+Microsemi Corporation - Microsemi Libero Software Release v12.1 (Version 12.600.0.14)
+
+Date      :  Wed May 29 12:35:52 2019
+Project   :  D:\G5_SOC\DSP\FIR_FILTER\DSP_FIR_FILTER
+Component :  test
+Family    :  SmartFusion2
+
+
+Stimulus files for all Simulation tools:
+    D:/G5_SOC/DSP/FIR_FILTER/DSP_FIR_FILTER/component/work/test/test.v
+

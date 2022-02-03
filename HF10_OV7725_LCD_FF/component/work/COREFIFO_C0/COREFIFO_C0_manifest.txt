@@ -1,0 +1,35 @@
+Microsemi Corporation - Microsemi Libero Software Release v2021.2 (Version 2021.2.0.11)
+
+Date      :  Wed Dec 29 23:18:27 2021
+Project   :  D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF
+Component :  COREFIFO_C0
+Family    :  SmartFusion2
+
+
+HDL source files for all Synthesis and Simulation tools:
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/COREFIFO_C0_COREFIFO_C0_0_USRAM_top.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/COREFIFO.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/corefifo_sync.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/corefifo_sync_scntr.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/corefifo_async.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/corefifo_NstagesSync.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/corefifo_grayToBinConv.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/core/corefifo_fwft.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0.v
+
+Stimulus files for all Simulation tools:
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/mti/scripts/wave.do
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/mti/scripts/runall.do
+
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/coreparameters.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/test/user/top_define.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/DirectCore/COREFIFO/3.0.101/rtl/vlog/test/user/clock_driver.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/DirectCore/COREFIFO/3.0.101/rtl/vlog/test/user/fifo_driver.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/DirectCore/COREFIFO/3.0.101/rtl/vlog/test/user/fifo_monitor.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/DirectCore/COREFIFO/3.0.101/rtl/vlog/test/user/g4_dp_ext_mem.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/COREFIFO_C0/COREFIFO_C0_0/rtl/vlog/test/user/testbench.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/DirectCore/COREFIFO/3.0.101/rtl/vlog/test/user/MEM_WeqR.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/DirectCore/COREFIFO/3.0.101/rtl/vlog/test/user/MEM_WgtR.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/Actel/DirectCore/COREFIFO/3.0.101/rtl/vlog/test/user/MEM_WltR.v
+

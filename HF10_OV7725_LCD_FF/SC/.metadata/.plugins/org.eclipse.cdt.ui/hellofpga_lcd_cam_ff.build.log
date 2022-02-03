@@ -1,0 +1,9 @@
+12:45:47 **** Build of configuration Release for project hellofpga_lcd_cam_ff ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Microsemi/SoftConsole_v6.0/eclipse/jre/bin/server;C:/Microsemi/SoftConsole_v6.0/eclipse/jre/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Shoreline Communications\ShoreWare Client\;C:\Program Files (x86)\Shoreline Communications\ShoreWare Client\win64;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\TortoiseSVN\bin;C:\Users\i52889\AppData\Local\Microsoft\WindowsApps;;C:\WINDOWS\system32;]
+
+12:45:47 Build Failed. 1 errors, 0 warnings. (took 131ms)
+

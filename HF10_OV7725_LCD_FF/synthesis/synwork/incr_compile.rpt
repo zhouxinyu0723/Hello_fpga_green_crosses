@@ -1,0 +1,170 @@
+
+Copyright (C) 1994-2021 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: R-2021.03M
+Install: C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro
+OS: Windows 6.2
+
+Hostname: DESKTOP-171ECO5
+
+Implementation : synthesis
+Synopsys HDL compiler and linker, Version comp202103synp1, Build 142R, Built Jun 17 2021 10:57:57, @
+
+Modified Files: 0
+FID:  path (prevtimestamp, timestamp)
+
+*******************************************************************
+Modules that may have changed as a result of file changes: 0
+MID:  lib.cell.view
+
+*******************************************************************
+Unmodified files: 68
+FID:  path (timestamp)
+47       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v (2021-07-13 15:36:15)
+48       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\arith.vhd (2021-07-13 15:36:15)
+49       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\location.map (2021-07-13 15:36:15)
+50       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\numeric.vhd (2021-07-13 15:36:15)
+51       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\signed.vhd (2021-07-13 15:36:15)
+52       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\std.vhd (2021-07-13 15:36:15)
+53       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\std1164.vhd (2021-07-13 15:36:15)
+54       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\std_textio.vhd (2021-07-13 15:36:15)
+55       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\unsigned.vhd (2021-07-13 15:36:15)
+56       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd\hyperents.vhd (2021-07-13 15:36:15)
+57       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd\snps_haps_pkg.vhd (2021-07-13 15:36:15)
+58       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd\umr_capim.vhd (2021-07-13 15:36:15)
+59       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vlog\hypermods.v (2021-07-13 15:36:15)
+60       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vlog\scemi_objects.v (2021-07-13 15:36:15)
+61       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vlog\scemi_pipes.svh (2021-07-13 15:36:15)
+62       C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vlog\umr_capim.v (2021-07-13 15:36:15)
+63       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\Actel\SgCore\OSC\2.0.101\osc_comps.v (2019-10-16 10:57:30)
+97       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0.v (2021-12-29 23:18:26)
+98       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v (2021-12-29 23:18:26)
+99       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_USRAM_top.v (2021-12-29 23:18:26)
+100      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v (2021-12-29 23:18:25)
+101      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_NstagesSync.v (2021-12-29 23:18:26)
+102      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_async.v (2021-12-29 23:18:26)
+103      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_fwft.v (2021-12-29 23:18:26)
+104      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_grayToBinConv.v (2021-12-29 23:18:26)
+105      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync.v (2021-12-29 23:18:26)
+106      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v (2021-12-29 23:18:26)
+64       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0.v (2019-06-27 11:04:36)
+65       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v (2019-06-27 11:04:36)
+66       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v (2019-06-27 11:04:36)
+67       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Rx_async.v (2019-06-27 11:04:36)
+68       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v (2019-06-27 11:04:36)
+69       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\fifo_256x8_g4.v (2019-06-27 11:04:36)
+107      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\DPSRAM_C0\DPSRAM_C0.v (2021-12-30 13:34:45)
+108      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\DPSRAM_C0\DPSRAM_C0_0\DPSRAM_C0_DPSRAM_C0_0_DPSRAM.v (2021-12-30 13:34:45)
+70       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\FlashFreeze_SB\CCC_0\FlashFreeze_SB_CCC_0_FCCC.v (2019-08-23 08:36:59)
+71       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\FlashFreeze_SB\FlashFreeze_SB.v (2019-08-23 08:36:59)
+72       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\FlashFreeze_SB_MSS\FlashFreeze_SB_MSS.v (2019-06-24 13:37:35)
+73       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\FlashFreeze_SB_MSS\FlashFreeze_SB_MSS_syn.v (2019-06-24 13:37:35)
+74       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0.v (2019-05-29 08:10:09)
+75       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0_0\OSC_C0_OSC_C0_0_OSC.v (2019-05-29 08:10:09)
+76       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\TOP\TOP.v (2021-12-30 13:30:42)
+77       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\UART_interface\UART_interface.v (2019-08-08 08:21:59)
+78       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\line_write_read\line_write_read.v (2022-01-04 11:58:31)
+113      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\mux\mux.v (2021-12-30 10:36:35)
+114      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\xy_display\xy_display.v (2021-12-31 00:18:04)
+79       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\CORERESETP_0.v (2019-08-23 08:34:48)
+80       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_EXT.v (2019-10-16 07:13:10)
+81       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_GENERATOR.vhd (2019-10-17 07:04:44)
+82       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Image_Enhancement.vhd (2019-10-16 14:10:29)
+83       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\LCD_FSM.vhd (2019-10-16 14:39:24)
+84       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\MUX5.vhd (2021-12-29 13:47:15)
+85       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\MUX6.vhd (2021-12-29 13:47:41)
+86       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\ROW_PTR.vhd (2021-12-30 22:31:03)
+109      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\RPoints.vhd (2022-01-04 11:38:18)
+87       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\RamDualPort.vhd (2019-10-16 14:29:59)
+110      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd (2021-12-31 00:46:06)
+88       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Write_LSRAM.vhd (2019-10-16 14:30:36)
+111      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_FIFO_CONTROL.vhd (2021-12-31 00:45:09)
+112      D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd (2022-01-04 12:40:38)
+89       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\addr_decoder.vhd (2019-10-17 06:58:56)
+90       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\apb3_if.vhd (2019-10-17 07:00:27)
+91       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v (2019-08-23 08:34:48)
+92       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp_pcie_hotreset.v (2019-08-23 08:34:48)
+93       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\double_flop.vhd (2019-10-17 07:01:10)
+94       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\led_blink.v (2019-10-16 08:11:32)
+95       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\mux_2_1.vhd (2019-10-16 14:29:41)
+96       D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\receive_data.vhd (2019-10-16 14:30:25)
+
+*******************************************************************
+Unchanged modules: 72
+MID:  lib.cell.view
+50       work.COREFIFO_C0.verilog
+51       work.COREFIFO_C0_COREFIFO_C0_0_COREFIFO.verilog
+52       work.COREFIFO_C0_COREFIFO_C0_0_USRAM_top.verilog
+53       work.COREFIFO_C0_COREFIFO_C0_0_corefifo_NstagesSync.verilog
+54       work.COREFIFO_C0_COREFIFO_C0_0_corefifo_async.verilog
+55       work.COREFIFO_C0_COREFIFO_C0_0_corefifo_fwft.verilog
+56       work.COREFIFO_C0_COREFIFO_C0_0_corefifo_grayToBinConv.verilog
+57       work.COREFIFO_C0_COREFIFO_C0_0_corefifo_sync.verilog
+58       work.COREFIFO_C0_COREFIFO_C0_0_corefifo_sync_scntr.verilog
+59       work.COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.verilog
+0        work.CORERESET_FF_0.verilog
+1        work.COREUART_C0.verilog
+2        work.COREUART_C0_COREUART_C0_0_COREUART.verilog
+3        work.COREUART_C0_COREUART_C0_0_Clock_gen.verilog
+4        work.COREUART_C0_COREUART_C0_0_Rx_async.verilog
+5        work.COREUART_C0_COREUART_C0_0_Tx_async.verilog
+6        work.COREUART_C0_COREUART_C0_0_fifo_256x8.verilog
+7        work.COREUART_C0_COREUART_C0_0_fifo_ctrl_128.verilog
+8        work.COREUART_C0_COREUART_C0_0_ram128x8_pa4.verilog
+9        work.CoreReset_FF.verilog
+60       work.DPSRAM_C0.verilog
+61       work.DPSRAM_C0_DPSRAM_C0_0_DPSRAM.verilog
+10       work.FF_EXT.verilog
+11       work.FlashFreeze_SB.verilog
+12       work.FlashFreeze_SB_CCC_0_FCCC.verilog
+13       work.FlashFreeze_SB_MSS.verilog
+14       work.MSS_010.verilog
+15       work.OSC_C0.verilog
+16       work.OSC_C0_OSC_C0_0_OSC.verilog
+17       work.RCOSC_25_50MHZ.verilog
+18       work.RCOSC_25_50MHZ_FAB.verilog
+19       work.TOP.verilog
+20       work.UART_interface.verilog
+21       work.addr_decoder.addr_decoder
+22       work.addr_decoder.vhdl
+23       work.apb3_if.apb3_if
+24       work.apb3_if.vhdl
+25       work.corereset_ff_pcie_hotreset.verilog
+26       work.double_flop.double_flop
+27       work.double_flop.vhdl
+28       work.ff_generator.ff_generator
+29       work.ff_generator.vhdl
+30       work.image_enhancement.image_enhancement
+31       work.image_enhancement.vhdl
+32       work.lcd_fsm.lcd_fsm
+33       work.lcd_fsm.vhdl
+34       work.led_blink.verilog
+35       work.line_write_read.verilog
+70       work.mux.verilog
+44       work.mux5.architecture_mux5
+45       work.mux5.vhdl
+46       work.mux6.architecture_mux6
+47       work.mux6.vhdl
+36       work.mux_2_1.mux_2_1
+37       work.mux_2_1.vhdl
+38       work.ramdualport.ramdualport
+39       work.ramdualport.vhdl
+40       work.receive_data.receive_data
+41       work.receive_data.vhdl
+48       work.row_ptr.architecture_row_ptr
+49       work.row_ptr.vhdl
+62       work.rpoints.architecture_rpoints
+63       work.rpoints.vhdl
+64       work.wpoints.architecture_wpoints
+65       work.wpoints.vhdl
+42       work.write_lsram.vhdl
+43       work.write_lsram.write_lsram
+71       work.xy_display.verilog
+66       work.xy_fifo_control.architecture_xy_fifo_control
+67       work.xy_fifo_control.vhdl
+68       work.xy_generator.architecture_xy_generator
+69       work.xy_generator.vhdl

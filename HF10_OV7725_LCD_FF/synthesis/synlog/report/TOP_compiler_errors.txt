@@ -1,0 +1,3 @@
+@E: CD309 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":355:36:355:57|Arguments have widths 8 and 7, they should match
+@E::Errors, while synthesis.
+

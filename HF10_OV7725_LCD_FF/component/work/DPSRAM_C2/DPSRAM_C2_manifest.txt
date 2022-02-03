@@ -1,0 +1,12 @@
+Microsemi Corporation - Microsemi Libero Software Release v2021.2 (Version 2021.2.0.11)
+
+Date      :  Thu Dec 30 10:45:06 2021
+Project   :  D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF
+Component :  DPSRAM_C2
+Family    :  SmartFusion2
+
+
+HDL source files for all Synthesis and Simulation tools:
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/DPSRAM_C2/DPSRAM_C2_0/DPSRAM_C2_DPSRAM_C2_0_DPSRAM.v
+    D:/time_eternity/desktop_download_doc_pic_vid_music/Desktop/industrie_and_space/pro/Image_Processing_with_low_power_demo/HF10_OV7725_LCD_FF/component/work/DPSRAM_C2/DPSRAM_C2.v
+

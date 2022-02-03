@@ -1,0 +1,295 @@
+@N: CD231 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\vhd2008\std1164.vhd":888:16:888:17|Using onehot encoding for type mvl9plus. For example, enumeration 'U' is mapped to "1000000000".
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\mux_2_1.vhd":28:7:28:13|Synthesizing work.mux_2_1.mux_2_1.
+Post processing for work.mux_2_1.mux_2_1
+Running optimization stage 1 on mux_2_1 .......
+Finished optimization stage 1 on mux_2_1 (CPU Time 0h:00m:00s, Memory Used current: 93MB peak: 94MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_GENERATOR.vhd":30:7:30:18|Synthesizing work.ff_generator.ff_generator.
+Post processing for work.ff_generator.ff_generator
+Running optimization stage 1 on FF_GENERATOR .......
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_GENERATOR.vhd":108:8:108:9|Pruning unused register s_ff_done_dly_2. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_GENERATOR.vhd":108:8:108:9|Pruning unused register s_ff_done_2. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_GENERATOR.vhd":108:8:108:9|Pruning unused register s_ff_to_start_dly_2. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_GENERATOR.vhd":108:8:108:9|Pruning unused register s_ff_to_start_2. Make sure that there are no unused intermediate registers.
+Finished optimization stage 1 on FF_GENERATOR (CPU Time 0h:00m:00s, Memory Used current: 93MB peak: 94MB)
+@N: Setting default value for generic g_apb3_if_data_width to 32;
+@N: Setting default value for generic g_const_width to 12;
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\apb3_if.vhd":31:7:31:13|Synthesizing work.apb3_if.apb3_if.
+Post processing for work.apb3_if.apb3_if
+Running optimization stage 1 on work_apb3_if_apb3_if_32_12_1_g_APB3_IF_DATA_WIDTHg_CONST_WIDTH .......
+Finished optimization stage 1 on work_apb3_if_apb3_if_32_12_1_g_APB3_IF_DATA_WIDTHg_CONST_WIDTH (CPU Time 0h:00m:00s, Memory Used current: 94MB peak: 95MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\receive_data.vhd":31:7:31:18|Synthesizing work.receive_data.receive_data.
+@N: CD231 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\receive_data.vhd":80:14:80:15|Using onehot encoding for type uart_fsm. For example, enumeration idle is mapped to "10000000000000000000".
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\receive_data.vhd":387:16:387:39|OTHERS clause is not synthesized.
+Post processing for work.receive_data.receive_data
+Running optimization stage 1 on receive_data .......
+Finished optimization stage 1 on receive_data (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 95MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\addr_decoder.vhd":30:7:30:18|Synthesizing work.addr_decoder.addr_decoder.
+Post processing for work.addr_decoder.addr_decoder
+Running optimization stage 1 on addr_decoder .......
+Finished optimization stage 1 on addr_decoder (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 96MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd":26:7:26:18|Synthesizing work.xy_generator.architecture_xy_generator.
+Post processing for work.xy_generator.architecture_xy_generator
+Running optimization stage 1 on xy_generator .......
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd":72:3:72:4|Pruning unused register counter_3(1 downto 0). Make sure that there are no unused intermediate registers.
+Finished optimization stage 1 on xy_generator (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Write_LSRAM.vhd":31:7:31:17|Synthesizing work.write_lsram.write_lsram.
+Post processing for work.write_lsram.write_lsram
+Running optimization stage 1 on WRITE_LSRAM .......
+@A: CL282 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Write_LSRAM.vhd":143:8:143:9|Feedback mux created for signal s_data[15:0]. It is possible a set/reset assignment for this is signal missing. To improve timing and area, specify a set/reset value.
+Finished optimization stage 1 on WRITE_LSRAM (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\RamDualPort.vhd":33:7:33:17|Synthesizing work.ramdualport.ramdualport.
+Post processing for work.ramdualport.ramdualport
+Running optimization stage 1 on ramDualPort .......
+@N: CL134 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\RamDualPort.vhd":72:9:72:11|Found RAM ram, depth=1024, width=16
+Finished optimization stage 1 on ramDualPort (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\LCD_FSM.vhd":30:7:30:13|Synthesizing work.lcd_fsm.lcd_fsm.
+@N: CD232 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\LCD_FSM.vhd":86:15:86:16|Using gray code encoding for type split_fsm.
+Post processing for work.lcd_fsm.lcd_fsm
+Running optimization stage 1 on LCD_FSM .......
+Finished optimization stage 1 on LCD_FSM (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Image_Enhancement.vhd":32:7:32:23|Synthesizing work.image_enhancement.image_enhancement.
+Post processing for work.image_enhancement.image_enhancement
+Running optimization stage 1 on Image_Enhancement .......
+@W: CL271 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Image_Enhancement.vhd":188:20:188:21|Pruning unused bits 42 to 19 of s_term1_b_4(43 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL271 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Image_Enhancement.vhd":188:20:188:21|Pruning unused bits 6 to 0 of s_term1_b_4(43 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL271 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Image_Enhancement.vhd":188:20:188:21|Pruning unused bits 42 to 19 of s_term1_g_4(43 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL271 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Image_Enhancement.vhd":188:20:188:21|Pruning unused bits 6 to 0 of s_term1_g_4(43 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL271 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Image_Enhancement.vhd":188:20:188:21|Pruning unused bits 42 to 19 of s_term1_r_5(43 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL271 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\Image_Enhancement.vhd":188:20:188:21|Pruning unused bits 6 to 0 of s_term1_r_5(43 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+Finished optimization stage 1 on Image_Enhancement (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\double_flop.vhd":30:7:30:17|Synthesizing work.double_flop.double_flop.
+Post processing for work.double_flop.double_flop
+Running optimization stage 1 on double_flop .......
+@A: CL282 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\double_flop.vhd":107:8:107:9|Feedback mux created for signal s_data2[7:0]. It is possible a set/reset assignment for this is signal missing. To improve timing and area, specify a set/reset value.
+Finished optimization stage 1 on double_flop (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_FIFO_CONTROL.vhd":23:7:23:21|Synthesizing work.xy_fifo_control.architecture_xy_fifo_control.
+Post processing for work.xy_fifo_control.architecture_xy_fifo_control
+Running optimization stage 1 on xy_fifo_control .......
+Finished optimization stage 1 on xy_fifo_control (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 97MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":25:7:25:13|Synthesizing work.wpoints.architecture_wpoints.
+@N: CD232 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":47:15:47:16|Using gray code encoding for type wp_fsm.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":282:20:282:33|OTHERS clause is not synthesized.
+@N: CD364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":322:24:322:31|Removing redundant assignment.
+@N: CD364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":361:24:361:31|Removing redundant assignment.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":409:20:409:33|OTHERS clause is not synthesized.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":458:20:458:33|OTHERS clause is not synthesized.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":507:20:507:33|OTHERS clause is not synthesized.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":556:20:556:33|OTHERS clause is not synthesized.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":605:20:605:33|OTHERS clause is not synthesized.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":658:20:658:33|OTHERS clause is not synthesized.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":670:16:670:29|OTHERS clause is not synthesized.
+Post processing for work.wpoints.architecture_wpoints
+Running optimization stage 1 on WPOINTS .......
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Optimizing register bit index_base(18) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Optimizing register bit index_base(19) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL279 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Pruning register bits 19 to 18 of index_base(19 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+Finished optimization stage 1 on WPOINTS (CPU Time 0h:00m:00s, Memory Used current: 104MB peak: 106MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\RPoints.vhd":25:7:25:13|Synthesizing work.rpoints.architecture_rpoints.
+@N: CD604 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\RPoints.vhd":100:12:100:25|OTHERS clause is not synthesized.
+Post processing for work.rpoints.architecture_rpoints
+Running optimization stage 1 on RPOINTS .......
+Finished optimization stage 1 on RPOINTS (CPU Time 0h:00m:00s, Memory Used current: 104MB peak: 106MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\ROW_PTR.vhd":24:7:24:13|Synthesizing work.row_ptr.architecture_row_ptr.
+Post processing for work.row_ptr.architecture_row_ptr
+Running optimization stage 1 on ROW_PTR .......
+Finished optimization stage 1 on ROW_PTR (CPU Time 0h:00m:00s, Memory Used current: 104MB peak: 106MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\MUX6.vhd":23:7:23:10|Synthesizing work.mux6.architecture_mux6.
+Post processing for work.mux6.architecture_mux6
+Running optimization stage 1 on mux6 .......
+Finished optimization stage 1 on mux6 (CPU Time 0h:00m:00s, Memory Used current: 104MB peak: 106MB)
+@N: CD630 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\MUX5.vhd":23:7:23:10|Synthesizing work.mux5.architecture_mux5.
+Post processing for work.mux5.architecture_mux5
+Running optimization stage 1 on mux5 .......
+Finished optimization stage 1 on mux5 (CPU Time 0h:00m:00s, Memory Used current: 104MB peak: 106MB)
+Running optimization stage 2 on mux5 .......
+Finished optimization stage 2 on mux5 (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on mux6 .......
+Finished optimization stage 2 on mux6 (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on ROW_PTR .......
+Finished optimization stage 2 on ROW_PTR (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on RPOINTS .......
+Finished optimization stage 2 on RPOINTS (CPU Time 0h:00m:00s, Memory Used current: 104MB peak: 106MB)
+Running optimization stage 2 on WPOINTS .......
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Optimizing register bit next_erase_true_index(18) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Optimizing register bit next_erase_true_index(19) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Optimizing register bit next_erase_virtual_index(0) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Optimizing register bit next_erase_virtual_index(1) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Optimizing register bit next_erase_virtual_index(2) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL279 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Pruning register bits 2 to 0 of next_erase_virtual_index(19 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL279 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Pruning register bits 19 to 18 of next_erase_true_index(19 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\WPOINTS.vhd":137:7:137:8|Trying to extract state machine for register s_state.
+Extracted state machine for register s_state
+State machine has 64 reachable states with original encodings of:
+   000000
+   000001
+   000010
+   000011
+   000100
+   000101
+   000110
+   000111
+   001000
+   001001
+   001010
+   001011
+   001100
+   001101
+   001110
+   001111
+   010000
+   010001
+   010010
+   010011
+   010100
+   010101
+   010110
+   010111
+   011000
+   011001
+   011010
+   011011
+   011100
+   011101
+   011110
+   011111
+   100000
+   100001
+   100010
+   100011
+   100100
+   100101
+   100110
+   100111
+   101000
+   101001
+   101010
+   101011
+   101100
+   101101
+   101110
+   101111
+   110000
+   110001
+   110010
+   110011
+   110100
+   110101
+   110110
+   110111
+   111000
+   111001
+   111010
+   111011
+   111100
+   111101
+   111110
+   111111
+Finished optimization stage 2 on WPOINTS (CPU Time 0h:00m:00s, Memory Used current: 104MB peak: 106MB)
+Running optimization stage 2 on xy_fifo_control .......
+Finished optimization stage 2 on xy_fifo_control (CPU Time 0h:00m:00s, Memory Used current: 102MB peak: 106MB)
+Running optimization stage 2 on double_flop .......
+Finished optimization stage 2 on double_flop (CPU Time 0h:00m:00s, Memory Used current: 102MB peak: 106MB)
+Running optimization stage 2 on Image_Enhancement .......
+Finished optimization stage 2 on Image_Enhancement (CPU Time 0h:00m:00s, Memory Used current: 102MB peak: 106MB)
+Running optimization stage 2 on LCD_FSM .......
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\LCD_FSM.vhd":179:16:179:17|Trying to extract state machine for register s_state.
+Extracted state machine for register s_state
+State machine has 43 reachable states with original encodings of:
+   000000
+   000001
+   000010
+   000011
+   000100
+   000101
+   000110
+   000111
+   001000
+   001001
+   001010
+   001011
+   001100
+   001101
+   001110
+   001111
+   010000
+   010001
+   010010
+   010011
+   010100
+   010101
+   010110
+   010111
+   011000
+   011001
+   011010
+   011011
+   011100
+   011101
+   011110
+   011111
+   110000
+   110001
+   110010
+   110011
+   110100
+   110101
+   110110
+   110111
+   111100
+   111101
+   111111
+Finished optimization stage 2 on LCD_FSM (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on ramDualPort .......
+Finished optimization stage 2 on ramDualPort (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on WRITE_LSRAM .......
+Finished optimization stage 2 on WRITE_LSRAM (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on xy_generator .......
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd":82:8:82:9|Optimizing register bit x_drifter(0) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd":82:8:82:9|Optimizing register bit x_drifter(1) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd":82:8:82:9|Optimizing register bit index_drifter(0) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd":82:8:82:9|Optimizing register bit index_drifter(1) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL279 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd":82:8:82:9|Pruning register bits 1 to 0 of index_drifter(17 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL279 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\XY_GENERATOR.vhd":82:8:82:9|Pruning register bits 1 to 0 of x_drifter(8 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+Finished optimization stage 2 on xy_generator (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on addr_decoder .......
+@W: CL246 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\addr_decoder.vhd":51:4:51:9|Input port bits 31 to 20 of data_i(31 downto 0) are unused. Assign logic for all port bits or change the input port size.
+Finished optimization stage 2 on addr_decoder (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on receive_data .......
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\receive_data.vhd":133:8:133:9|Trying to extract state machine for register state.
+Extracted state machine for register state
+State machine has 20 reachable states with original encodings of:
+   00000000000000000001
+   00000000000000000010
+   00000000000000000100
+   00000000000000001000
+   00000000000000010000
+   00000000000000100000
+   00000000000001000000
+   00000000000010000000
+   00000000000100000000
+   00000000001000000000
+   00000000010000000000
+   00000000100000000000
+   00000001000000000000
+   00000010000000000000
+   00000100000000000000
+   00001000000000000000
+   00010000000000000000
+   00100000000000000000
+   01000000000000000000
+   10000000000000000000
+Finished optimization stage 2 on receive_data (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on work_apb3_if_apb3_if_32_12_1_g_APB3_IF_DATA_WIDTHg_CONST_WIDTH .......
+@W: CL246 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\apb3_if.vhd":51:4:51:10|Input port bits 31 to 12 of paddr_i(31 downto 0) are unused. Assign logic for all port bits or change the input port size.
+@W: CL246 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\apb3_if.vhd":52:4:52:11|Input port bits 31 to 8 of pwdata_i(31 downto 0) are unused. Assign logic for all port bits or change the input port size.
+Finished optimization stage 2 on work_apb3_if_apb3_if_32_12_1_g_APB3_IF_DATA_WIDTHg_CONST_WIDTH (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on FF_GENERATOR .......
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_GENERATOR.vhd":41:4:41:12|Input ff_done_i is unused.
+Finished optimization stage 2 on FF_GENERATOR (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+Running optimization stage 2 on mux_2_1 .......
+Finished optimization stage 2 on mux_2_1 (CPU Time 0h:00m:00s, Memory Used current: 103MB peak: 106MB)
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\synthesis\synwork\layer1.rt.csv
+

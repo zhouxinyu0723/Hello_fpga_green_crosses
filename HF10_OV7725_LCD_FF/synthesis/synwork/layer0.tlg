@@ -1,0 +1,614 @@
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_EXT.v":1:7:1:12|Synthesizing module FF_EXT in library work.
+Running optimization stage 1 on FF_EXT .......
+Finished optimization stage 1 on FF_EXT (CPU Time 0h:00m:00s, Memory Used current: 94MB peak: 95MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":126:7:126:10|Synthesizing module AND2 in library work.
+Running optimization stage 1 on AND2 .......
+Finished optimization stage 1 on AND2 (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 95MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":286:7:286:11|Synthesizing module BIBUF in library work.
+Running optimization stage 1 on BIBUF .......
+Finished optimization stage 1 on BIBUF (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 95MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":362:7:362:12|Synthesizing module CLKINT in library work.
+Running optimization stage 1 on CLKINT .......
+Finished optimization stage 1 on CLKINT (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 95MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":376:7:376:9|Synthesizing module VCC in library work.
+Running optimization stage 1 on VCC .......
+Finished optimization stage 1 on VCC (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 95MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":372:7:372:9|Synthesizing module GND in library work.
+Running optimization stage 1 on GND .......
+Finished optimization stage 1 on GND (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 95MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":729:7:729:9|Synthesizing module CCC in library work.
+Running optimization stage 1 on CCC .......
+Finished optimization stage 1 on CCC (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 95MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\FlashFreeze_SB\CCC_0\FlashFreeze_SB_CCC_0_FCCC.v":5:7:5:31|Synthesizing module FlashFreeze_SB_CCC_0_FCCC in library work.
+Running optimization stage 1 on FlashFreeze_SB_CCC_0_FCCC .......
+Finished optimization stage 1 on FlashFreeze_SB_CCC_0_FCCC (CPU Time 0h:00m:00s, Memory Used current: 95MB peak: 95MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":23:7:23:18|Synthesizing module CoreReset_FF in library work.
+
+	FAMILY=32'b00000000000000000000000000010011
+	EXT_RESET_CFG=32'b00000000000000000000000000000000
+	DEVICE_VOLTAGE=32'b00000000000000000000000000000010
+	MDDR_IN_USE=32'b00000000000000000000000000000000
+	FDDR_IN_USE=32'b00000000000000000000000000000000
+	SDIF0_IN_USE=32'b00000000000000000000000000000000
+	SDIF1_IN_USE=32'b00000000000000000000000000000000
+	SDIF2_IN_USE=32'b00000000000000000000000000000000
+	SDIF3_IN_USE=32'b00000000000000000000000000000000
+	SDIF0_PCIE=32'b00000000000000000000000000000000
+	SDIF1_PCIE=32'b00000000000000000000000000000000
+	SDIF2_PCIE=32'b00000000000000000000000000000000
+	SDIF3_PCIE=32'b00000000000000000000000000000000
+	SDIF0_PCIE_HOTRESET=32'b00000000000000000000000000000001
+	SDIF1_PCIE_HOTRESET=32'b00000000000000000000000000000001
+	SDIF2_PCIE_HOTRESET=32'b00000000000000000000000000000001
+	SDIF3_PCIE_HOTRESET=32'b00000000000000000000000000000001
+	SDIF0_PCIE_L2P2=32'b00000000000000000000000000000001
+	SDIF1_PCIE_L2P2=32'b00000000000000000000000000000001
+	SDIF2_PCIE_L2P2=32'b00000000000000000000000000000001
+	SDIF3_PCIE_L2P2=32'b00000000000000000000000000000001
+	ENABLE_SOFT_RESETS=32'b00000000000000000000000000000000
+	INCL_FF_SUPPORT=32'b00000000000000000000000000000001
+	DEVICE_090=32'b00000000000000000000000000000000
+	DDR_WAIT=32'b00000000000000000000000011001000
+	RCOSC_MEGAHERTZ=32'b00000000000000000000000000110010
+	SDIF_INTERVAL=32'b00000000000000000001100101100100
+	DDR_INTERVAL=32'b00000000000000000010011100010000
+	COUNT_WIDTH_SDIF=32'b00000000000000000000000000001101
+	COUNT_WIDTH_DDR=32'b00000000000000000000000000001110
+	S0=32'b00000000000000000000000000000000
+	S1=32'b00000000000000000000000000000001
+	S2=32'b00000000000000000000000000000010
+	S3=32'b00000000000000000000000000000011
+	S4=32'b00000000000000000000000000000100
+	S5=32'b00000000000000000000000000000101
+	S6=32'b00000000000000000000000000000110
+   Generated name = CoreReset_FF_Z1_layer0
+Running optimization stage 1 on CoreReset_FF_Z1_layer0 .......
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1728:4:1728:9|Pruning unused register count_ddr[13:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1696:4:1696:9|Pruning unused register count_sdif3[12:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1664:4:1664:9|Pruning unused register count_sdif2[12:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1632:4:1632:9|Pruning unused register count_sdif1[12:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1600:4:1600:9|Pruning unused register count_sdif0[12:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_sdif0_enable_q1. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_sdif1_enable_q1. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_sdif2_enable_q1. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_sdif3_enable_q1. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_sdif0_enable_rcosc. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_sdif1_enable_rcosc. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_sdif2_enable_rcosc. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_sdif3_enable_rcosc. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_ddr_enable_q1. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1570:4:1570:9|Pruning unused register count_ddr_enable_rcosc. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1480:4:1480:9|Pruning unused register count_sdif3_enable. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1415:4:1415:9|Pruning unused register count_sdif2_enable. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1350:4:1350:9|Pruning unused register count_sdif1_enable. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1285:4:1285:9|Pruning unused register count_sdif0_enable. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1204:4:1204:9|Pruning unused register count_ddr_enable. Make sure that there are no unused intermediate registers.
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1503:4:1503:9|Sharing sequential element M3_RESET_N_int and merging RESET_N_F2M_int. Add a syn_preserve attribute to the element to prevent sharing.
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1078:4:1078:9|Sharing sequential element sdif2_spll_lock_q1 and merging sdif3_spll_lock_q1. Add a syn_preserve attribute to the element to prevent sharing.
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1078:4:1078:9|Sharing sequential element sdif1_spll_lock_q1 and merging sdif3_spll_lock_q1. Add a syn_preserve attribute to the element to prevent sharing.
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1078:4:1078:9|Sharing sequential element sdif0_spll_lock_q1 and merging sdif3_spll_lock_q1. Add a syn_preserve attribute to the element to prevent sharing.
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1078:4:1078:9|Sharing sequential element fpll_lock_q1 and merging sdif3_spll_lock_q1. Add a syn_preserve attribute to the element to prevent sharing.
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1548:4:1548:9|Optimizing register bit EXT_RESET_OUT_int to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1204:4:1204:9|Pruning unused register release_ext_reset. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1548:4:1548:9|Pruning unused register EXT_RESET_OUT_int. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1548:4:1548:9|Pruning unused register sm2_state[2:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":868:4:868:9|Pruning unused register sm2_areset_n_q2. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":868:4:868:9|Pruning unused register sm2_areset_n_q1. Make sure that there are no unused intermediate registers.
+Finished optimization stage 1 on CoreReset_FF_Z1_layer0 (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\CORERESETP_0.v":9:7:9:20|Synthesizing module CORERESET_FF_0 in library work.
+Running optimization stage 1 on CORERESET_FF_0 .......
+Finished optimization stage 1 on CORERESET_FF_0 (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":837:7:837:18|Synthesizing module FLASH_FREEZE in library work.
+Running optimization stage 1 on FLASH_FREEZE .......
+Finished optimization stage 1 on FLASH_FREEZE (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\FlashFreeze_SB_MSS\FlashFreeze_SB_MSS_syn.v":5:7:5:13|Synthesizing module MSS_010 in library work.
+Running optimization stage 1 on MSS_010 .......
+Finished optimization stage 1 on MSS_010 (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\FlashFreeze_SB_MSS\FlashFreeze_SB_MSS.v":9:7:9:24|Synthesizing module FlashFreeze_SB_MSS in library work.
+Running optimization stage 1 on FlashFreeze_SB_MSS .......
+Finished optimization stage 1 on FlashFreeze_SB_MSS (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":186:7:186:9|Synthesizing module MX2 in library work.
+Running optimization stage 1 on MX2 .......
+Finished optimization stage 1 on MX2 (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\FlashFreeze_SB\FlashFreeze_SB.v":9:7:9:20|Synthesizing module FlashFreeze_SB in library work.
+Running optimization stage 1 on FlashFreeze_SB .......
+Finished optimization stage 1 on FlashFreeze_SB (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\led_blink.v":3:7:3:15|Synthesizing module led_blink in library work.
+Running optimization stage 1 on led_blink .......
+Finished optimization stage 1 on led_blink (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\mux\mux.v":9:7:9:9|Synthesizing module mux in library work.
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\mux\mux.v":72:5:72:10|Using module mux5 from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\mux\mux.v":92:5:92:10|Using module mux6 from library work
+Running optimization stage 1 on mux .......
+Finished optimization stage 1 on mux (CPU Time 0h:00m:00s, Memory Used current: 96MB peak: 97MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":29:7:29:40|Synthesizing module COREFIFO_C0_COREFIFO_C0_0_COREFIFO in library work.
+
+	FAMILY=32'b00000000000000000000000000010011
+	SYNC=32'b00000000000000000000000000000001
+	RE_POLARITY=32'b00000000000000000000000000000000
+	WE_POLARITY=32'b00000000000000000000000000000000
+	RWIDTH=32'b00000000000000000000000000010010
+	WWIDTH=32'b00000000000000000000000000010010
+	RDEPTH=32'b00000000000000000000000001000000
+	WDEPTH=32'b00000000000000000000000001000000
+	READ_DVALID=32'b00000000000000000000000000000000
+	WRITE_ACK=32'b00000000000000000000000000000000
+	CTRL_TYPE=32'b00000000000000000000000000000011
+	ESTOP=32'b00000000000000000000000000000001
+	FSTOP=32'b00000000000000000000000000000001
+	AE_STATIC_EN=32'b00000000000000000000000000000000
+	AF_STATIC_EN=32'b00000000000000000000000000000000
+	AEVAL=32'b00000000000000000000000000000100
+	AFVAL=32'b00000000000000000000000000111100
+	PIPE=32'b00000000000000000000000000000001
+	PREFETCH=32'b00000000000000000000000000000000
+	FWFT=32'b00000000000000000000000000000000
+	ECC=32'b00000000000000000000000000000000
+	OVERFLOW_EN=32'b00000000000000000000000000000000
+	UNDERFLOW_EN=32'b00000000000000000000000000000000
+	WRCNT_EN=32'b00000000000000000000000000000000
+	RDCNT_EN=32'b00000000000000000000000000000000
+	NUM_STAGES=32'b00000000000000000000000000000010
+	SYNC_RESET=32'b00000000000000000000000000000001
+	RAM_OPT=32'b00000000000000000000000000000000
+	DIE_SIZE=32'b00000000000000000000000000001010
+	WMSB_DEPTH=32'b00000000000000000000000000000110
+	RMSB_DEPTH=32'b00000000000000000000000000000110
+	WDEPTH_CAL=32'b00000000000000000000000000000101
+	RDEPTH_CAL=32'b00000000000000000000000000000101
+	RESET_POLARITY=32'b00000000000000000000000000000000
+	RCLK_EDGE=32'b00000000000000000000000000000001
+	WCLK_EDGE=32'b00000000000000000000000000000001
+   Generated name = COREFIFO_C0_COREFIFO_C0_0_COREFIFO_Z2_layer0
+@W: CG168 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":613:16:613:39|Type of parameter READ_DEPTH on the instance fifo_corefifo_sync_scntr is not in accordance with the type of parameter on corresponding module. Please update RTL with correct parameter type 
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":28:7:28:51|Synthesizing module COREFIFO_C0_COREFIFO_C0_0_corefifo_sync_scntr in library work.
+
+	WRITE_WIDTH=32'b00000000000000000000000000010010
+	WRITE_DEPTH=32'b00000000000000000000000000000110
+	FULL_WRITE_DEPTH=32'b00000000000000000000000001000000
+	READ_WIDTH=32'b00000000000000000000000000010010
+	READ_DEPTH=32'b00000000000000000000000000000110
+	FULL_READ_DEPTH=32'b00000000000000000000000001000000
+	PREFETCH=32'b00000000000000000000000000000000
+	FWFT=32'b00000000000000000000000000000000
+	WCLK_HIGH=32'b00000000000000000000000000000001
+	RESET_LOW=32'b00000000000000000000000000000000
+	WRITE_LOW=32'b00000000000000000000000000000000
+	READ_LOW=32'b00000000000000000000000000000000
+	AF_FLAG_STATIC=32'b00000000000000000000000000000000
+	AE_FLAG_STATIC=32'b00000000000000000000000000000000
+	AFULL_VAL=32'b00000000000000000000000000111100
+	AEMPTY_VAL=32'b00000000000000000000000000000100
+	ESTOP=32'b00000000000000000000000000000001
+	FSTOP=32'b00000000000000000000000000000001
+	PIPE=32'b00000000000000000000000000000001
+	REGISTER_RADDR=32'b00000000000000000000000000000001
+	READ_DVALID=32'b00000000000000000000000000000000
+	WRITE_ACK=32'b00000000000000000000000000000000
+	OVERFLOW_EN=32'b00000000000000000000000000000000
+	UNDERFLOW_EN=32'b00000000000000000000000000000000
+	WRCNT_EN=32'b00000000000000000000000000000000
+	RDCNT_EN=32'b00000000000000000000000000000000
+	ECC=32'b00000000000000000000000000000000
+	SYNC_RESET=32'b00000000000000000000000000000001
+	FAMILY=32'b00000000000000000000000000010011
+	WDEPTH_CAL=32'b00000000000000000000000000000101
+	RDEPTH_CAL=32'b00000000000000000000000000000101
+   Generated name = COREFIFO_C0_COREFIFO_C0_0_corefifo_sync_scntr_Z3_layer0
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":170:29:170:46|Removing wire almostfulli_assert, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":171:29:171:48|Removing wire almostfulli_deassert, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":172:29:172:40|Removing wire fulli_assert, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":173:29:173:42|Removing wire fulli_deassert, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":181:29:181:37|Removing wire neg_reset, as there is no assignment to it.
+@W: CG184 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":182:29:182:36|Removing wire re_top_p, as it has the load but no drivers.
+Running optimization stage 1 on COREFIFO_C0_COREFIFO_C0_0_corefifo_sync_scntr_Z3_layer0 .......
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":493:4:493:9|Pruning unused register empty_r_fwft. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":493:4:493:9|Pruning unused register aempty_r_fwft. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":471:3:471:8|Pruning unused register dvld_r2. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":471:3:471:8|Pruning unused register full_reg. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":471:3:471:8|Pruning unused register re_p_d1. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":471:3:471:8|Pruning unused register empty_top_fwft_r. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":392:3:392:8|Pruning unused register sc_r_fwft[6:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":379:4:379:9|Pruning unused register sc_w[6:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":339:6:339:11|Pruning unused register we_f_i. Make sure that there are no unused intermediate registers.
+@W: CL207 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":546:7:546:12|All reachable assignments to genblk7.wack_r assign 0, register removed by optimization.
+@W: CL207 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":546:7:546:12|All reachable assignments to genblk7.overflow_r assign 0, register removed by optimization.
+@W: CL207 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":493:4:493:9|All reachable assignments to underflow_r assign 0, register removed by optimization.
+@W: CL207 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":493:4:493:9|All reachable assignments to dvld_r assign 0, register removed by optimization.
+@W: CL207 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":283:3:283:8|All reachable assignments to rdcnt[6:0] assign 0, register removed by optimization.
+@W: CL207 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":256:3:256:8|All reachable assignments to wrcnt[6:0] assign 0, register removed by optimization.
+Finished optimization stage 1 on COREFIFO_C0_COREFIFO_C0_0_corefifo_sync_scntr_Z3_layer0 (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":456:7:456:14|Synthesizing module RAM64x18 in library work.
+Running optimization stage 1 on RAM64x18 .......
+Finished optimization stage 1 on RAM64x18 (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_USRAM_top.v":5:7:5:41|Synthesizing module COREFIFO_C0_COREFIFO_C0_0_USRAM_top in library work.
+Running optimization stage 1 on COREFIFO_C0_COREFIFO_C0_0_USRAM_top .......
+Finished optimization stage 1 on COREFIFO_C0_COREFIFO_C0_0_USRAM_top (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v":4:7:4:43|Synthesizing module COREFIFO_C0_COREFIFO_C0_0_ram_wrapper in library work.
+
+	RWIDTH=32'b00000000000000000000000000010010
+	WWIDTH=32'b00000000000000000000000000010010
+	RDEPTH=32'b00000000000000000000000000000110
+	WDEPTH=32'b00000000000000000000000000000110
+	SYNC=32'b00000000000000000000000000000001
+	SYNC_RESET=32'b00000000000000000000000000000001
+	RAM_OPT=32'b00000000000000000000000000000000
+	PIPE=32'b00000000000000000000000000000001
+	CTRL_TYPE=32'b00000000000000000000000000000011
+   Generated name = COREFIFO_C0_COREFIFO_C0_0_ram_wrapper_18s_18s_6_6_1s_1s_0s_1s_3s
+Running optimization stage 1 on COREFIFO_C0_COREFIFO_C0_0_ram_wrapper_18s_18s_6_6_1s_1s_0s_1s_3s .......
+@W: CL318 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v":44:25:44:36|*Output A_SB_CORRECT has undriven bits; assigning undriven bits to 'Z'.  Simulation mismatch possible. Assign all bits of the output.
+@W: CL318 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v":45:25:45:36|*Output B_SB_CORRECT has undriven bits; assigning undriven bits to 'Z'.  Simulation mismatch possible. Assign all bits of the output.
+@W: CL318 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v":46:25:46:35|*Output A_DB_DETECT has undriven bits; assigning undriven bits to 'Z'.  Simulation mismatch possible. Assign all bits of the output.
+@W: CL318 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v":47:25:47:35|*Output B_DB_DETECT has undriven bits; assigning undriven bits to 'Z'.  Simulation mismatch possible. Assign all bits of the output.
+Finished optimization stage 1 on COREFIFO_C0_COREFIFO_C0_0_ram_wrapper_18s_18s_6_6_1s_1s_0s_1s_3s (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@W: CG184 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":215:36:215:41|Removing wire EMPTY2, as it has the load but no drivers.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":216:36:216:42|Removing wire AEMPTY2, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":217:36:217:45|Removing wire fifo_rd_en, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":221:36:221:46|Removing wire pf_MEMRADDR, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":222:36:222:48|Removing wire fwft_MEMRADDR, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":227:36:227:39|Removing wire pf_Q, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":228:36:228:41|Removing wire fwft_Q, as there is no assignment to it.
+@W: CG184 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":246:36:246:45|Removing wire DVLD_async, as it has the load but no drivers.
+@W: CG184 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":248:36:248:44|Removing wire DVLD_sync, as it has the load but no drivers.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":249:36:249:44|Removing wire fwft_dvld, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":250:36:250:49|Removing wire fwft_reg_valid, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":251:36:251:42|Removing wire pf_dvld, as there is no assignment to it.
+@W: CG133 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":260:36:260:44|Object reg_valid is declared but not assigned. Either assign a value or remove the declaration.
+@W: CG133 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":274:36:274:41|Object reg_RD is declared but not assigned. Either assign a value or remove the declaration.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":293:8:293:17|Removing wire reset_rclk, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":294:8:294:17|Removing wire reset_wclk, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":295:8:295:19|Removing wire reset_sync_r, as there is no assignment to it.
+@W: CG360 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":296:8:296:19|Removing wire reset_sync_w, as there is no assignment to it.
+Running optimization stage 1 on COREFIFO_C0_COREFIFO_C0_0_COREFIFO_Z2_layer0 .......
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1185:3:1185:8|Pruning unused register RDATA_ext_r1[17:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1175:3:1175:8|Pruning unused register RDATA_ext_r[17:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1110:3:1110:8|Pruning unused register RE_d2. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1110:3:1110:8|Pruning unused register RE_d3. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1110:3:1110:8|Pruning unused register REN_d2. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1110:3:1110:8|Pruning unused register REN_d3. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1110:3:1110:8|Pruning unused register re_pulse_d2. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1110:3:1110:8|Pruning unused register re_pulse_d3. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1098:3:1098:8|Pruning unused register RDATA_r2[17:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1088:3:1088:8|Pruning unused register RDATA_r1[17:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1078:3:1078:8|Pruning unused register RDATA_r_pre[17:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":1068:3:1068:8|Pruning unused register fwft_Q_r[17:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":513:3:513:8|Pruning unused register DVLD_async_ecc. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":513:3:513:8|Pruning unused register DVLD_sync_ecc. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":513:3:513:8|Pruning unused register DVLD_scntr_ecc. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":500:3:500:8|Pruning unused register AEMPTY1_r. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":500:3:500:8|Pruning unused register AEMPTY1_r1. Make sure that there are no unused intermediate registers.
+Finished optimization stage 1 on COREFIFO_C0_COREFIFO_C0_0_COREFIFO_Z2_layer0 (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0.v":49:7:49:17|Synthesizing module COREFIFO_C0 in library work.
+Running optimization stage 1 on COREFIFO_C0 .......
+Finished optimization stage 1 on COREFIFO_C0 (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":138:7:138:9|Synthesizing module OR2 in library work.
+Running optimization stage 1 on OR2 .......
+Finished optimization stage 1 on OR2 (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":382:7:382:13|Synthesizing module RAM1K18 in library work.
+Running optimization stage 1 on RAM1K18 .......
+Finished optimization stage 1 on RAM1K18 (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":228:7:228:9|Synthesizing module INV in library work.
+Running optimization stage 1 on INV .......
+Finished optimization stage 1 on INV (CPU Time 0h:00m:00s, Memory Used current: 97MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\DPSRAM_C0\DPSRAM_C0_0\DPSRAM_C0_DPSRAM_C0_0_DPSRAM.v":5:7:5:34|Synthesizing module DPSRAM_C0_DPSRAM_C0_0_DPSRAM in library work.
+Running optimization stage 1 on DPSRAM_C0_DPSRAM_C0_0_DPSRAM .......
+Finished optimization stage 1 on DPSRAM_C0_DPSRAM_C0_0_DPSRAM (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\DPSRAM_C0\DPSRAM_C0.v":67:7:67:15|Synthesizing module DPSRAM_C0 in library work.
+Running optimization stage 1 on DPSRAM_C0 .......
+Finished optimization stage 1 on DPSRAM_C0 (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\xy_display\xy_display.v":9:7:9:16|Synthesizing module xy_display in library work.
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\xy_display\xy_display.v":128:8:128:16|Using module ROW_PTR from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\xy_display\xy_display.v":143:8:143:16|Using module RPOINTS from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\xy_display\xy_display.v":157:8:157:16|Using module WPOINTS from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\xy_display\xy_display.v":173:16:173:32|Using module xy_fifo_control from library work
+Running optimization stage 1 on xy_display .......
+Finished optimization stage 1 on xy_display (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\line_write_read\line_write_read.v":9:7:9:21|Synthesizing module line_write_read in library work.
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\line_write_read\line_write_read.v":150:12:150:24|Using module double_flop from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\line_write_read\line_write_read.v":164:18:164:36|Using module Image_Enhancement from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\line_write_read\line_write_read.v":183:8:183:16|Using module LCD_FSM from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\line_write_read\line_write_read.v":214:12:214:24|Using module ramDualPort from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\line_write_read\line_write_read.v":227:12:227:24|Using module WRITE_LSRAM from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\line_write_read\line_write_read.v":259:13:259:26|Using module xy_generator from library work
+Running optimization stage 1 on line_write_read .......
+Finished optimization stage 1 on line_write_read (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\Actel\SgCore\OSC\2.0.101\osc_comps.v":46:7:46:24|Synthesizing module RCOSC_25_50MHZ_FAB in library work.
+Running optimization stage 1 on RCOSC_25_50MHZ_FAB .......
+Finished optimization stage 1 on RCOSC_25_50MHZ_FAB (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\Actel\SgCore\OSC\2.0.101\osc_comps.v":10:7:10:20|Synthesizing module RCOSC_25_50MHZ in library work.
+Running optimization stage 1 on RCOSC_25_50MHZ .......
+Finished optimization stage 1 on RCOSC_25_50MHZ (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0_0\OSC_C0_OSC_C0_0_OSC.v":5:7:5:25|Synthesizing module OSC_C0_OSC_C0_0_OSC in library work.
+Running optimization stage 1 on OSC_C0_OSC_C0_0_OSC .......
+@W: CL318 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0_0\OSC_C0_OSC_C0_0_OSC.v":17:7:17:20|*Output RCOSC_1MHZ_CCC has undriven bits; assigning undriven bits to 'Z'.  Simulation mismatch possible. Assign all bits of the output.
+@W: CL318 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0_0\OSC_C0_OSC_C0_0_OSC.v":18:7:18:20|*Output RCOSC_1MHZ_O2F has undriven bits; assigning undriven bits to 'Z'.  Simulation mismatch possible. Assign all bits of the output.
+@W: CL318 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0_0\OSC_C0_OSC_C0_0_OSC.v":19:7:19:16|*Output XTLOSC_CCC has undriven bits; assigning undriven bits to 'Z'.  Simulation mismatch possible. Assign all bits of the output.
+@W: CL318 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0_0\OSC_C0_OSC_C0_0_OSC.v":20:7:20:16|*Output XTLOSC_O2F has undriven bits; assigning undriven bits to 'Z'.  Simulation mismatch possible. Assign all bits of the output.
+Finished optimization stage 1 on OSC_C0_OSC_C0_0_OSC (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0.v":9:7:9:12|Synthesizing module OSC_C0 in library work.
+Running optimization stage 1 on OSC_C0 .......
+Finished optimization stage 1 on OSC_C0 (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"C:\Microsemi\Libero_SoC_v2021.2\SynplifyPro\lib\generic\smartfusion2.v":720:7:720:14|Synthesizing module SYSRESET in library work.
+Running optimization stage 1 on SYSRESET .......
+Finished optimization stage 1 on SYSRESET (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 98MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v":30:0:30:34|Synthesizing module COREUART_C0_COREUART_C0_0_Clock_gen in library work.
+
+	BAUD_VAL_FRCTN_EN=32'b00000000000000000000000000000001
+	SYNC_RESET=32'b00000000000000000000000000000000
+   Generated name = COREUART_C0_COREUART_C0_0_Clock_gen_1s_0s
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v":346:0:346:6|Removing redundant assignment.
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v":427:0:427:6|Removing redundant assignment.
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v":532:0:532:6|Removing redundant assignment.
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v":611:0:611:6|Removing redundant assignment.
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v":716:0:716:6|Removing redundant assignment.
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v":808:0:808:6|Removing redundant assignment.
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Clock_gen.v":915:0:915:6|Removing redundant assignment.
+Running optimization stage 1 on COREUART_C0_COREUART_C0_0_Clock_gen_1s_0s .......
+Finished optimization stage 1 on COREUART_C0_COREUART_C0_0_Clock_gen_1s_0s (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 99MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":14:0:14:33|Synthesizing module COREUART_C0_COREUART_C0_0_Tx_async in library work.
+
+	SYNC_RESET=32'b00000000000000000000000000000000
+	TX_FIFO=32'b00000000000000000000000000000000
+	CUARTI1ll=32'b00000000000000000000000000000000
+	CUARTl1ll=32'b00000000000000000000000000000001
+	CUARTOO0l=32'b00000000000000000000000000000010
+	CUARTIO0l=32'b00000000000000000000000000000011
+	CUARTlO0l=32'b00000000000000000000000000000100
+	CUARTOI0l=32'b00000000000000000000000000000101
+	CUARTII0l=32'b00000000000000000000000000000110
+   Generated name = COREUART_C0_COREUART_C0_0_Tx_async_0s_0s_0s_1s_2s_3s_4s_5s_6s
+@W: CG1340 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":168:0:168:8|Index into variable CUARTIl0l could be out of range ; a simulation mismatch is possible.
+@W: CG1340 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":168:0:168:8|Index into variable CUARTIl0l could be out of range ; a simulation mismatch is possible.
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":870:0:870:8|Removing redundant assignment.
+Running optimization stage 1 on COREUART_C0_COREUART_C0_0_Tx_async_0s_0s_0s_1s_2s_3s_4s_5s_6s .......
+@W: CL190 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":301:0:301:5|Optimizing register bit CUARTI00l to a constant 1. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":301:0:301:5|Pruning unused register CUARTI00l. Make sure that there are no unused intermediate registers.
+Finished optimization stage 1 on COREUART_C0_COREUART_C0_0_Tx_async_0s_0s_0s_1s_2s_3s_4s_5s_6s (CPU Time 0h:00m:00s, Memory Used current: 99MB peak: 99MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Rx_async.v":14:0:14:33|Synthesizing module COREUART_C0_COREUART_C0_0_Rx_async in library work.
+
+	SYNC_RESET=32'b00000000000000000000000000000000
+	RX_FIFO=32'b00000000000000000000000000000000
+	CUARTOIIl=32'b00000000000000000000000000000000
+	CUARTIIIl=32'b00000000000000000000000000000001
+	CUARTlIIl=32'b00000000000000000000000000000010
+	CUARTOlIl=32'b00000000000000000000000000000011
+   Generated name = COREUART_C0_COREUART_C0_0_Rx_async_0s_0s_0s_1s_2s_3s
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Rx_async.v":750:0:750:7|Removing redundant assignment.
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Rx_async.v":857:0:857:8|Removing redundant assignment.
+Running optimization stage 1 on COREUART_C0_COREUART_C0_0_Rx_async_0s_0s_0s_1s_2s_3s .......
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Rx_async.v":1613:0:1613:5|Sharing sequential element CUARTI1l and merging CUARTIO0. Add a syn_preserve attribute to the element to prevent sharing.
+Finished optimization stage 1 on COREUART_C0_COREUART_C0_0_Rx_async_0s_0s_0s_1s_2s_3s (CPU Time 0h:00m:00s, Memory Used current: 99MB peak: 99MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":14:0:14:33|Synthesizing module COREUART_C0_COREUART_C0_0_COREUART in library work.
+
+	TX_FIFO=32'b00000000000000000000000000000000
+	RX_FIFO=32'b00000000000000000000000000000000
+	RX_LEGACY_MODE=32'b00000000000000000000000000000000
+	FAMILY=32'b00000000000000000000000000010011
+	BAUD_VAL_FRCTN_EN=32'b00000000000000000000000000000001
+	SYNC_RESET=32'b00000000000000000000000000000000
+   Generated name = COREUART_C0_COREUART_C0_0_COREUART_0s_0s_0s_19s_1s_0s
+@N: CG179 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":1338:0:1338:7|Removing redundant assignment.
+@W: CG133 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":333:0:333:7|Object CUARTlI0 is declared but not assigned. Either assign a value or remove the declaration.
+Running optimization stage 1 on COREUART_C0_COREUART_C0_0_COREUART_0s_0s_0s_19s_1s_0s .......
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":1268:0:1268:5|Pruning unused register CUARTO10. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":1159:0:1159:5|Pruning unused register CUARTOl0. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":1159:0:1159:5|Pruning unused register CUARTIl0. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":1106:0:1106:5|Pruning unused register CUARTIOl[7:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":984:0:984:5|Pruning unused register CUARTll0[1:0]. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":936:0:936:5|Pruning unused register CUARTOI0. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":936:0:936:5|Pruning unused register CUARTlO0. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":888:0:888:5|Pruning unused register CUARTOO0. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":888:0:888:5|Pruning unused register CUARTl1l. Make sure that there are no unused intermediate registers.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\CoreUART.v":405:0:405:5|Pruning unused register CUARTIll. Make sure that there are no unused intermediate registers.
+Finished optimization stage 1 on COREUART_C0_COREUART_C0_0_COREUART_0s_0s_0s_19s_1s_0s (CPU Time 0h:00m:00s, Memory Used current: 99MB peak: 99MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0.v":9:7:9:17|Synthesizing module COREUART_C0 in library work.
+Running optimization stage 1 on COREUART_C0 .......
+Finished optimization stage 1 on COREUART_C0 (CPU Time 0h:00m:00s, Memory Used current: 99MB peak: 99MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\UART_interface\UART_interface.v":9:7:9:20|Synthesizing module UART_interface in library work.
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\UART_interface\UART_interface.v":96:13:96:26|Using module addr_decoder from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\UART_interface\UART_interface.v":136:13:136:26|Using module receive_data from library work
+Running optimization stage 1 on UART_interface .......
+Finished optimization stage 1 on UART_interface (CPU Time 0h:00m:00s, Memory Used current: 99MB peak: 99MB)
+@N: CG364 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\TOP\TOP.v":9:7:9:9|Synthesizing module TOP in library work.
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\TOP\TOP.v":184:0:184:8|Using module apb3_if from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\TOP\TOP.v":205:13:205:27|Using module FF_GENERATOR from library work
+@N: CG794 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\TOP\TOP.v":285:8:285:16|Using module mux_2_1 from library work
+Running optimization stage 1 on TOP .......
+Finished optimization stage 1 on TOP (CPU Time 0h:00m:00s, Memory Used current: 99MB peak: 99MB)
+Running optimization stage 2 on TOP .......
+Finished optimization stage 2 on TOP (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 99MB)
+Running optimization stage 2 on UART_interface .......
+Finished optimization stage 2 on UART_interface (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 99MB)
+Running optimization stage 2 on COREUART_C0 .......
+Finished optimization stage 2 on COREUART_C0 (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 99MB)
+Running optimization stage 2 on COREUART_C0_COREUART_C0_0_COREUART_0s_0s_0s_19s_1s_0s .......
+Finished optimization stage 2 on COREUART_C0_COREUART_C0_0_COREUART_0s_0s_0s_19s_1s_0s (CPU Time 0h:00m:00s, Memory Used current: 98MB peak: 99MB)
+Running optimization stage 2 on COREUART_C0_COREUART_C0_0_Rx_async_0s_0s_0s_1s_2s_3s .......
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Rx_async.v":871:0:871:5|Trying to extract state machine for register CUARTll0.
+Extracted state machine for register CUARTll0
+State machine has 4 reachable states with original encodings of:
+   00
+   01
+   10
+   11
+Finished optimization stage 2 on COREUART_C0_COREUART_C0_0_Rx_async_0s_0s_0s_1s_2s_3s (CPU Time 0h:00m:00s, Memory Used current: 99MB peak: 100MB)
+Running optimization stage 2 on COREUART_C0_COREUART_C0_0_Tx_async_0s_0s_0s_1s_2s_3s_4s_5s_6s .......
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":301:0:301:5|Trying to extract state machine for register CUARTlI0l.
+Extracted state machine for register CUARTlI0l
+State machine has 6 reachable states with original encodings of:
+   00000000000000000000000000000000
+   00000000000000000000000000000001
+   00000000000000000000000000000010
+   00000000000000000000000000000011
+   00000000000000000000000000000100
+   00000000000000000000000000000101
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":81:0:81:7|Input CUARTI1I is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":84:0:84:7|Input CUARTlO1 is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREUART_C0\COREUART_C0_0\rtl\vlog\core_obfuscated\Tx_async.v":87:0:87:7|Input CUARTOI1 is unused.
+Finished optimization stage 2 on COREUART_C0_COREUART_C0_0_Tx_async_0s_0s_0s_1s_2s_3s_4s_5s_6s (CPU Time 0h:00m:00s, Memory Used current: 100MB peak: 101MB)
+Running optimization stage 2 on COREUART_C0_COREUART_C0_0_Clock_gen_1s_0s .......
+Finished optimization stage 2 on COREUART_C0_COREUART_C0_0_Clock_gen_1s_0s (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on SYSRESET .......
+Finished optimization stage 2 on SYSRESET (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on OSC_C0 .......
+Finished optimization stage 2 on OSC_C0 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on OSC_C0_OSC_C0_0_OSC .......
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\OSC_C0\OSC_C0_0\OSC_C0_OSC_C0_0_OSC.v":14:7:14:9|Input XTL is unused.
+Finished optimization stage 2 on OSC_C0_OSC_C0_0_OSC (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on RCOSC_25_50MHZ .......
+Finished optimization stage 2 on RCOSC_25_50MHZ (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on RCOSC_25_50MHZ_FAB .......
+Finished optimization stage 2 on RCOSC_25_50MHZ_FAB (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on line_write_read .......
+Finished optimization stage 2 on line_write_read (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on xy_display .......
+Finished optimization stage 2 on xy_display (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on DPSRAM_C0 .......
+Finished optimization stage 2 on DPSRAM_C0 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on DPSRAM_C0_DPSRAM_C0_0_DPSRAM .......
+Finished optimization stage 2 on DPSRAM_C0_DPSRAM_C0_0_DPSRAM (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on INV .......
+Finished optimization stage 2 on INV (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on RAM1K18 .......
+Finished optimization stage 2 on RAM1K18 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on OR2 .......
+Finished optimization stage 2 on OR2 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on COREFIFO_C0 .......
+Finished optimization stage 2 on COREFIFO_C0 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on COREFIFO_C0_COREFIFO_C0_0_ram_wrapper_18s_18s_6_6_1s_1s_0s_1s_3s .......
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v":48:25:48:30|Input WCLOCK is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO_C0_COREFIFO_C0_0_ram_wrapper.v":49:25:49:30|Input RCLOCK is unused.
+Finished optimization stage 2 on COREFIFO_C0_COREFIFO_C0_0_ram_wrapper_18s_18s_6_6_1s_1s_0s_1s_3s (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on COREFIFO_C0_COREFIFO_C0_0_USRAM_top .......
+Finished optimization stage 2 on COREFIFO_C0_COREFIFO_C0_0_USRAM_top (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on RAM64x18 .......
+Finished optimization stage 2 on RAM64x18 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on COREFIFO_C0_COREFIFO_C0_0_corefifo_sync_scntr_Z3_layer0 .......
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":102:29:102:34|Input re_top is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\corefifo_sync_scntr.v":103:29:103:42|Input empty_top_fwft is unused.
+Finished optimization stage 2 on COREFIFO_C0_COREFIFO_C0_0_corefifo_sync_scntr_Z3_layer0 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on COREFIFO_C0_COREFIFO_C0_0_COREFIFO_Z2_layer0 .......
+@W: CL156 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":215:36:215:41|*Input EMPTY2 to expression [instance] has undriven bits; assigning undriven bits to 0.  Simulation mismatch possible. Assign all bits of the input.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":175:15:175:22|Input WRESET_N is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":176:15:176:22|Input RRESET_N is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\component\work\COREFIFO_C0\COREFIFO_C0_0\rtl\vlog\core\COREFIFO.v":181:36:181:40|Input MEMRD is unused.
+Finished optimization stage 2 on COREFIFO_C0_COREFIFO_C0_0_COREFIFO_Z2_layer0 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on mux .......
+Finished optimization stage 2 on mux (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on led_blink .......
+Finished optimization stage 2 on led_blink (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on FlashFreeze_SB .......
+Finished optimization stage 2 on FlashFreeze_SB (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on MX2 .......
+Finished optimization stage 2 on MX2 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on FlashFreeze_SB_MSS .......
+Finished optimization stage 2 on FlashFreeze_SB_MSS (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on MSS_010 .......
+Finished optimization stage 2 on MSS_010 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on FLASH_FREEZE .......
+Finished optimization stage 2 on FLASH_FREEZE (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on CORERESET_FF_0 .......
+Finished optimization stage 2 on CORERESET_FF_0 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on CoreReset_FF_Z1_layer0 .......
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1078:4:1078:9|Sharing sequential element sdif0_spll_lock_q2 and merging fpll_lock_q2. Add a syn_preserve attribute to the element to prevent sharing.
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1078:4:1078:9|Sharing sequential element sdif1_spll_lock_q2 and merging fpll_lock_q2. Add a syn_preserve attribute to the element to prevent sharing.
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1078:4:1078:9|Sharing sequential element sdif2_spll_lock_q2 and merging fpll_lock_q2. Add a syn_preserve attribute to the element to prevent sharing.
+@W: CL177 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1078:4:1078:9|Sharing sequential element sdif3_spll_lock_q2 and merging fpll_lock_q2. Add a syn_preserve attribute to the element to prevent sharing.
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1480:4:1480:9|Trying to extract state machine for register sdif3_state.
+Extracted state machine for register sdif3_state
+State machine has 4 reachable states with original encodings of:
+   000
+   001
+   010
+   011
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1415:4:1415:9|Trying to extract state machine for register sdif2_state.
+Extracted state machine for register sdif2_state
+State machine has 4 reachable states with original encodings of:
+   000
+   001
+   010
+   011
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1350:4:1350:9|Trying to extract state machine for register sdif1_state.
+Extracted state machine for register sdif1_state
+State machine has 4 reachable states with original encodings of:
+   000
+   001
+   010
+   011
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1285:4:1285:9|Trying to extract state machine for register sdif0_state.
+Extracted state machine for register sdif0_state
+State machine has 4 reachable states with original encodings of:
+   000
+   001
+   010
+   011
+@N: CL201 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":1204:4:1204:9|Trying to extract state machine for register sm0_state.
+Extracted state machine for register sm0_state
+State machine has 7 reachable states with original encodings of:
+   000
+   001
+   010
+   011
+   100
+   101
+   110
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":29:20:29:28|Input CLK_LTSSM is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":67:20:67:28|Input FPLL_LOCK is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":70:20:70:34|Input SDIF0_SPLL_LOCK is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":79:20:79:34|Input SDIF1_SPLL_LOCK is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":83:20:83:34|Input SDIF2_SPLL_LOCK is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":87:20:87:34|Input SDIF3_SPLL_LOCK is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":101:20:101:29|Input SDIF0_PSEL is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":102:20:102:31|Input SDIF0_PWRITE is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":103:20:103:31|Input SDIF0_PRDATA is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":104:20:104:29|Input SDIF1_PSEL is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":105:20:105:31|Input SDIF1_PWRITE is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":106:20:106:31|Input SDIF1_PRDATA is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":107:20:107:29|Input SDIF2_PSEL is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":108:20:108:31|Input SDIF2_PWRITE is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":109:20:109:31|Input SDIF2_PRDATA is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":110:20:110:29|Input SDIF3_PSEL is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":111:20:111:31|Input SDIF3_PWRITE is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":112:20:112:31|Input SDIF3_PRDATA is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":118:20:118:37|Input SOFT_EXT_RESET_OUT is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":119:20:119:33|Input SOFT_RESET_F2M is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":120:20:120:32|Input SOFT_M3_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":121:20:121:49|Input SOFT_MDDR_DDR_AXI_S_CORE_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":122:20:122:39|Input SOFT_FDDR_CORE_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":123:20:123:39|Input SOFT_SDIF0_PHY_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":124:20:124:40|Input SOFT_SDIF0_CORE_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":125:20:125:39|Input SOFT_SDIF1_PHY_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":126:20:126:40|Input SOFT_SDIF1_CORE_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":127:20:127:39|Input SOFT_SDIF2_PHY_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":128:20:128:40|Input SOFT_SDIF2_CORE_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":129:20:129:39|Input SOFT_SDIF3_PHY_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":130:20:130:40|Input SOFT_SDIF3_CORE_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":134:20:134:42|Input SOFT_SDIF0_0_CORE_RESET is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\coreresetp.v":135:20:135:42|Input SOFT_SDIF0_1_CORE_RESET is unused.
+Finished optimization stage 2 on CoreReset_FF_Z1_layer0 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on FlashFreeze_SB_CCC_0_FCCC .......
+Finished optimization stage 2 on FlashFreeze_SB_CCC_0_FCCC (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on CCC .......
+Finished optimization stage 2 on CCC (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on GND .......
+Finished optimization stage 2 on GND (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on VCC .......
+Finished optimization stage 2 on VCC (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on CLKINT .......
+Finished optimization stage 2 on CLKINT (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on BIBUF .......
+Finished optimization stage 2 on BIBUF (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on AND2 .......
+Finished optimization stage 2 on AND2 (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+Running optimization stage 2 on FF_EXT .......
+@N: CL189 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_EXT.v":14:0:14:5|Register bit tg_out is always 1.
+@W: CL169 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_EXT.v":10:0:10:5|Pruning unused register lock_reg. Make sure that there are no unused intermediate registers.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_EXT.v":3:6:3:8|Input clk is unused.
+@N: CL159 :"D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\hdl\FF_EXT.v":3:10:3:13|Input lock is unused.
+Finished optimization stage 2 on FF_EXT (CPU Time 0h:00m:00s, Memory Used current: 101MB peak: 103MB)
+
+For a summary of runtime and memory usage per design unit, please see file:
+==========================================================
+@L: D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\synthesis\synwork\layer0.rt.csv
+

@@ -1,0 +1,24 @@
+Software Version: 2021.2.0.11
+Opened 'D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\designer\TOP\TOP_fp\TOP.pro'
+PDB file 'D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\designer\TOP\TOP.pdb' has been loaded successfully.
+DESIGN : TOP;  CHECKSUM : 80CB;  PDB_VERSION : 1.9
+Info: Programming Interface selected is JTAG.
+Info: Design version will be programmed to 6 with this bitstream.
+File/Folder 'D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\designer\TOP\export\TOP.ppd' will be overwritten.
+Successfully exported PPD file for currently secured device: 'D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\designer\TOP\export\TOP.ppd'; file programs Fabric and eNVM.
+Fabric component bitstream digest: 31f0cdebf828187ca6545d8a8a5fae6154b412e41fa11cedbc358feed966181b
+eNVM component bitstream digest: 815d0e951360d1e9e99de2f02f397f5c1f63fd1be97871a88d68e0573135aba2
+Entire bitstream digest: 7a69515b4c053b22cc22b6d37799707fe6e2c39b3da3321b83952c188e1c58a8
+Finished: Tue Jan 04 12:43:28 2022 (Elapsed time 00:00:07)
+
+Info: Programming Interface selected is JTAG.
+Info: Design version will be programmed to 6 with this bitstream.
+File/Folder 'D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\designer\TOP\export\TOP.dat' will be overwritten.
+Successfully exported DirectC file: 'D:\time_eternity\desktop_download_doc_pic_vid_music\Desktop\industrie_and_space\pro\Image_Processing_with_low_power_demo\HF10_OV7725_LCD_FF\designer\TOP\export\TOP.dat'; file programs Fabric and eNVM.
+Fabric component bitstream digest: 31f0cdebf828187ca6545d8a8a5fae6154b412e41fa11cedbc358feed966181b
+eNVM component bitstream digest: 815d0e951360d1e9e99de2f02f397f5c1f63fd1be97871a88d68e0573135aba2
+Entire bitstream digest: 7a69515b4c053b22cc22b6d37799707fe6e2c39b3da3321b83952c188e1c58a8
+Finished: Tue Jan 04 12:43:34 2022 (Elapsed time 00:00:06)
+
+Project saved.
+Project closed.
